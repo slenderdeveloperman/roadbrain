@@ -11,6 +11,7 @@ The joke may be complicated. The instruction cannot.
 ## Start here
 
 - [`docs/NORTH_STAR.md`](docs/NORTH_STAR.md) — what ROAD BRAIN is, what it is not, and the non-negotiable creative rules.
+- [`docs/DECISIONS.md`](docs/DECISIONS.md) — locked, superseded and still-experimental decisions.
 - [`docs/PRODUCTION_SYSTEM.md`](docs/PRODUCTION_SYSTEM.md) — the current Paper → Cavalry → finishing/publishing workflow.
 - [`docs/EPISODE_GRAMMAR.md`](docs/EPISODE_GRAMMAR.md) — the fixed 25.2-second / five-state transmission grammar.
 - [`docs/VISUAL_LANGUAGE.md`](docs/VISUAL_LANGUAGE.md) — normal world, corruption levels, palette, captions, characters and glitches.
