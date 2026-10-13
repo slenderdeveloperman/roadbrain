@@ -1,0 +1,65 @@
+# ROAD BRAIN — Legal / Factual Guardrails
+
+## Principle
+
+ROAD BRAIN is comedy, but the road instruction must be factually defensible.
+
+**Never let the joke outrun the rule.**
+
+Before publishing an episode:
+1. identify the exact behaviour being taught;
+2. verify the rule against current Indian road law / official guidance;
+3. make sure the final card does not overstate the rule;
+4. keep exceptions out of the joke unless they are essential to understanding it.
+
+## Current verified anchors
+
+### Lane discipline / changing lanes
+The Motor Vehicles (Driving) Regulations, 2017 require drivers on lane-marked roads to drive within a lane and change lanes only after giving a proper signal or according to road markings/signage.
+
+### Overtaking
+The same regulations require safe overtaking and use of direction indicators to show intent; after overtaking, drivers should return to the left side as quickly as possible where applicable.
+
+### High beams
+The regulations state that drivers must not use high beam inappropriately, for long duration, or on well-lit roads, and must dip high beam in good time for an oncoming vehicle or when driving close behind another vehicle.
+
+Public-facing wording should therefore be:
+- `DIM YOUR HIGH BEAMS.`
+- `DON'T BLIND ONCOMING TRAFFIC.`
+
+Avoid implying that high beam is categorically forbidden in every context.
+
+### Shoulder / hard shoulder
+Ordinary vehicles are expected to operate on the carriageway. The regulations explicitly give emergency vehicles responding to urgent situations exceptional permission to drive on a highway hard shoulder.
+
+Public-facing wording:
+- `THE SHOULDER IS NOT A LANE.`
+- `KEEP IT CLEAR.`
+
+Avoid inventing penalty amounts unless verified for the relevant jurisdiction and date.
+
+## Source baseline
+
+Primary legal baseline used during concept development:
+- Motor Vehicles (Driving) Regulations, 2017, Ministry of Road Transport and Highways, Government of India.
+
+Before release, prefer current official Gazette / India Code / MoRTH sources over blogs, summaries or social posts.
+
+## Publishing checklist
+
+```text
+[ ] rule wording verified
+[ ] exceptions checked
+[ ] no fake fine amount
+[ ] no absolute claim where law is conditional
+[ ] joke captions cannot be mistaken for the actual rule
+[ ] final instruction is clean and unambiguous
+```
+
+## Design implication
+
+ROAD BRAIN can be visually insane because its **instructional layer is conservative**.
+
+That asymmetry is a feature:
+- surreal violation;
+- precise legal/factual correction.
