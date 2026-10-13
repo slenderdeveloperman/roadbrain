@@ -18,7 +18,8 @@ The joke may be complicated. The instruction cannot.
 - [`docs/AUDIO_GRAMMAR.md`](docs/AUDIO_GRAMMAR.md) — the recurring carrier track and how every episode maps to it.
 - [`docs/IDENTITY.md`](docs/IDENTITY.md) — wordmark, typography and institutional transmission identity.
 - [`docs/LEGAL_GUARDRAILS.md`](docs/LEGAL_GUARDRAILS.md) — how to keep jokes subordinate to truthful road-safety instructions.
-- [`docs/EPISODE_BACKLOG.md`](docs/EPISODE_BACKLOG.md) — the initial episode slate.
+- [`docs/EPISODE_BACKLOG.md`](docs/EPISODE_BACKLOG.md) — Season 01 production order and prioritization.
+- [`docs/SEASON_01_EP004_EP020.md`](docs/SEASON_01_EP004_EP020.md) — implementation-ready concept plan for episodes 4 through 20.
 - [`docs/episodes/EP001_INDICATE_THEN_MOVE.md`](docs/episodes/EP001_INDICATE_THEN_MOVE.md)
 - [`docs/episodes/EP002_HIGH_BEAM_DETECTED.md`](docs/episodes/EP002_HIGH_BEAM_DETECTED.md)
 - [`docs/episodes/EP003_SHOULDER_IS_NOT_A_LANE.md`](docs/episodes/EP003_SHOULDER_IS_NOT_A_LANE.md)
@@ -32,7 +33,8 @@ The joke may be complicated. The instruction cannot.
 5. **Paper** is the visual/static source of truth. **Cavalry** is the motion system. Finishing should stay lightweight unless a specific episode truly needs a heavier editor.
 6. Surrealism belongs to the **violation**. The **correction stays boring**.
 7. The core public-facing line is **DRIVE PREDICTABLY.**
+8. Season 01 is planned through **EP020**, with each episode breaking a different subsystem rather than repeating one visual trick.
 
 ## Status
 
-ROAD BRAIN is in active prototype production. EP001 establishes the grammar; EP002 and EP003 deliberately break different parts of the same institutional system.
+ROAD BRAIN is in active prototype production. EP001 establishes the grammar; EP002–EP020 now form the planned first season.
