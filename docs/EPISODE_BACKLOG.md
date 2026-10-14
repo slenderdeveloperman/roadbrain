@@ -93,6 +93,7 @@ Prefer episodes that do at least one of these:
 EP001 — INDICATE. THEN MOVE.          geometry failure
 EP002 — HIGH BEAM DETECTED            vision failure
 EP003 — THE SHOULDER IS NOT A LANE    world-model failure
+EP004 — PASS. RETURN LEFT.            Right Lane Raja / territorial bureaucracy
 ```
 
-After EP003, reassess which next idea expands the grammar most rather than mechanically following the numbered slate.
+EP004 now uses the season plan's Right Lane Raja topic, superseding the initial slate's tentative `KEEP LEFT.` placement. Its nine [storyboard frames](episodes/EP004_PASS_RETURN_LEFT.md) are complete in the [unified Paper file](STORYBOARDS.md); motion/rendering remain pending. The numbered initial slate above is historical, not the current production numbering.

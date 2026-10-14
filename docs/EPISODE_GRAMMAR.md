@@ -19,6 +19,10 @@ Hook = accusation; system = bureaucracy; rule = calm authority. Keep all picture
 
 The mnemonic introduced by EP003 preserves melodic identity through changing surroundings; see [Audio Grammar](AUDIO_GRAMMAR.md). The existing EP001/EP002 masters remain unchanged.
 
+## EP004: Right Lane Raja
+
+EP004 applies the same hook-first cut boundaries as EP003 to a different causal sequence: completed pass → unnecessary residency → territorial border/crown → customs queue → safe signalled return → rule. Its territory/crown split is at 12.20 s. See [EP004](episodes/EP004_PASS_RETURN_LEFT.md) for inclusive frame ranges and the picture-only handoff. This does not change the existing EP001/EP002 carrier below.
+
 ## EP001/EP002 baseline carrier
 
 The earlier ROAD BRAIN productions use the **25.2-second** five-state carrier:

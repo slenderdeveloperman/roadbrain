@@ -4,6 +4,12 @@ This file records important decisions that changed during development so old cha
 
 ## Locked
 
+### One Paper file for the series
+EP001–EP003 were consolidated before EP004 was added. [The unified storyboard file](STORYBOARDS.md) now holds shared assets and a page per episode; future episode storyboards go there. Historical files remain provenance. All boards retain editable text/vector content.
+
+### EP004 — Right Lane Raja
+EP004 is `PASS. RETURN LEFT.`, using the season plan's territory/crown/queue concept with the latest hook-first pacing. The correction includes a safe gap and signal; the final card qualifies the instruction with `WHEN SAFE.` Nine [EP004 keyframes and exact motion timings](episodes/EP004_PASS_RETURN_LEFT.md) are complete. Animation/rendering are pending, and no soundtrack was generated.
+
 ### ROAD BRAIN is an institution, not a meme page
 The brand frame is **a glitched institution making transmissions**. Memetic energy lives inside the transmission failures, not in random account-level styling.
 

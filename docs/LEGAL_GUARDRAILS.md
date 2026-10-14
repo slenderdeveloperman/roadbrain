@@ -20,6 +20,8 @@ The Motor Vehicles (Driving) Regulations, 2017 require drivers on lane-marked ro
 ### Overtaking
 The same regulations require safe overtaking and use of direction indicators to show intent; after overtaking, drivers should return to the left side as quickly as possible where applicable.
 
+For EP004, the English Gazette text was retrieved through Exa on 2026-10-14 from [Tripura Traffic Police's official copy](https://trafficpolice.tripura.gov.in/sites/default/files/2023-08/Motor%20Vehicle%20Driving%20Regulation%2C2017.pdf). Regulations 14(1), 14(6), 14(9) and 6 underpin safe passing, signalling, clearance and the return left. Regulation 14(2) includes permitted left-overtaking exceptions: do not claim that every road's right lane is exclusively for overtaking. EP004 uses `PASS. RETURN LEFT.` with `WHEN SAFE.` and visibly demonstrates a checked gap. Signs and markings still govern the manoeuvre. See [EP004's source notes](episodes/EP004_PASS_RETURN_LEFT.md).
+
 ### High beams
 The regulations state that drivers must not use high beam inappropriately, for long duration, or on well-lit roads, and must dip high beam in good time for an oncoming vehicle or when driving close behind another vehicle.
 

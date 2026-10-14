@@ -1,5 +1,7 @@
 # EP001 — INDICATE. THEN MOVE.
 
+[Editable storyboard in the unified Paper file](https://app.paper.design/file/01M4XBCQ0SFYHGKEF9NWC2R334/p-3-0). See [the storyboard index](../STORYBOARDS.md) for source provenance.
+
 ## Role in the series
 
 EP001 is the **reference implementation** that established ROAD BRAIN’s grammar.

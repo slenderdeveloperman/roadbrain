@@ -10,6 +10,7 @@ The joke may be complicated. The instruction cannot.
 
 ## Start here
 
+- [`docs/STORYBOARDS.md`](docs/STORYBOARDS.md) — the single editable Paper file for EP001–EP004, shared assets, and future episodes.
 - [`docs/NORTH_STAR.md`](docs/NORTH_STAR.md) — what ROAD BRAIN is, what it is not, and the non-negotiable creative rules.
 - [`docs/DECISIONS.md`](docs/DECISIONS.md) — locked, superseded and still-experimental decisions.
 - [`docs/PRODUCTION_SYSTEM.md`](docs/PRODUCTION_SYSTEM.md) — the current Paper → Cavalry → finishing/publishing workflow.
@@ -22,6 +23,7 @@ The joke may be complicated. The instruction cannot.
 - [`docs/episodes/EP001_INDICATE_THEN_MOVE.md`](docs/episodes/EP001_INDICATE_THEN_MOVE.md)
 - [`docs/episodes/EP002_HIGH_BEAM_DETECTED.md`](docs/episodes/EP002_HIGH_BEAM_DETECTED.md)
 - [`docs/episodes/EP003_SHOULDER_IS_NOT_A_LANE.md`](docs/episodes/EP003_SHOULDER_IS_NOT_A_LANE.md)
+- [`docs/episodes/EP004_PASS_RETURN_LEFT.md`](docs/episodes/EP004_PASS_RETURN_LEFT.md)
 
 ## Current locked decisions
 
@@ -35,8 +37,12 @@ The joke may be complicated. The instruction cannot.
 
 ## Status
 
-ROAD BRAIN is in active prototype production. EP001 establishes the grammar; EP002 and EP003 deliberately break different parts of the same institutional system.
+ROAD BRAIN is in active prototype production. EP001 establishes the grammar; EP002 and EP003 deliberately break different parts of the same institutional system. EP004's Right Lane Raja storyboard is complete in the unified Paper file; motion and rendering remain pending.
 
 ## EP003 storyboard
 
-[Open the editable Paper storyboard](https://app.paper.design/file/01M4WW7Z0Q227S7MJN4DJX2652/p-1-0). The main sequence and opening-only A/B/C/D tests follow the updated [EP003 specification](docs/episodes/EP003_SHOULDER_IS_NOT_A_LANE.md). The Hook A picture-only video has been rendered in Cavalry; the generated soundtrack was removed for the user to add a replacement separately; see the [render handoff](docs/EP003_RENDER.md) for verified output specifications and editable deliverables.
+[Open EP003 in the unified Paper storyboard](https://app.paper.design/file/01M4XBCQ0SFYHGKEF9NWC2R334/p-1-0). The main sequence and opening-only A/B/C/D tests follow the updated [EP003 specification](docs/episodes/EP003_SHOULDER_IS_NOT_A_LANE.md). The Hook A picture-only video has been rendered in Cavalry; the generated soundtrack was removed for the user to add a replacement separately; see the [render handoff](docs/EP003_RENDER.md) for verified output specifications and editable deliverables.
+
+## EP004 storyboard
+
+[Open EP004 — PASS. RETURN LEFT.](https://app.paper.design/file/01M4XBCQ0SFYHGKEF9NWC2R334/p-5-0). Nine keyframes develop Right Lane Raja through a completed overtake, indefinite residency, a ceremonial border/crown, a customs queue, and a safe signalled return left. The same file contains all EP001–EP003 storyboards and shared assets: 46 artboards across five pages. See the [storyboard index](docs/STORYBOARDS.md) and [EP004 motion handoff](docs/episodes/EP004_PASS_RETURN_LEFT.md).

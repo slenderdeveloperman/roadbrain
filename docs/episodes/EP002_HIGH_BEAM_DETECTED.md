@@ -1,5 +1,7 @@
 # EP002 — HIGH BEAM DETECTED
 
+[Editable storyboard in the unified Paper file](https://app.paper.design/file/01M4XBCQ0SFYHGKEF9NWC2R334/p-4-0). See [the storyboard index](../STORYBOARDS.md) for source provenance.
+
 ## Role in the series
 
 Subsystem that fails: **vision / sensor interpretation**.

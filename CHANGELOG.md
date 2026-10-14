@@ -2,6 +2,16 @@
 
 ## 2026-10-14
 
+### Unified storyboards and EP004
+
+- Consolidated all 37 existing EP001–EP003 Paper artboards into one canonical file before adding EP004, preserving editable text, vector groups, assets and EP003 hook tests.
+- Organized five pages: shared assets, EP001, EP002, EP003 and EP004. Historical originals remain available as provenance; new production edits use the unified file.
+- Created nine 1080 × 1920 Right Lane Raja storyboard keyframes for EP004 `PASS. RETURN LEFT.`, with hook-first timing, territorial/crown/customs escalation, safe signalled correction and `WHEN SAFE.` qualification.
+- Used Exa to retrieve the official Gazette rule baseline; documented frame ranges, source notes and the later motion/render acceptance criteria. EP004 animation, audio and video render remain pending.
+- Verified 46 total artboards, source group counts, editable content, final rule hierarchy and correction indicator. Updated canonical links, production organization and episode numbering notes.
+
+### EP003 hook-first update
+
 - Updated EP003 to the supplied hook-first 25.2-second format, showing false capacity, copycats, forced merging, infinite road width, and zero average speed.
 - Revised the existing Paper storyboard with nine main keyframes and opening-only B/C/D test boards; removed the ambulance payoff and made the shoulder rule primary on the final card.
 - Documented the new 3–4-note civic mnemonic, its escalation/clean reset, shared hook-test carrier, and 30 fps cut boundaries. Audio composition and motion rendering remain outstanding production tasks.

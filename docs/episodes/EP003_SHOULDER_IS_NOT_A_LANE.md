@@ -712,7 +712,7 @@ EP003 succeeds if:
 
 Updated 2026-10-14 from the supplied hook-first specification. This specification supersedes EP003's earlier clean establishing shot, `NO.` rejection beat, ambulance consequence, and EP001-audio reuse requirement. EP001 and EP002 retain their existing masters.
 
-[Editable Paper storyboard](https://app.paper.design/file/01M4WW7Z0Q227S7MJN4DJX2652/p-1-0)
+[Editable Paper storyboard in the unified series file](https://app.paper.design/file/01M4XBCQ0SFYHGKEF9NWC2R334/p-1-0). See [the storyboard index](../STORYBOARDS.md) for consolidation provenance.
 
 The storyboard contains nine main artboards: visual interrupt, hook A, condition entry, condition passing, social contagion, geometry failure, collapse, correction, and rule. The two condition artboards are keyframes within one 1.55–4.90-second section, not additional timed sections. B/C/D are opening-only test artboards below the main sequence. All variants share the same carrier after the opening.
 

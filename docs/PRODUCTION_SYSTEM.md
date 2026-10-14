@@ -53,24 +53,18 @@ Current preference:
 
 ## Paper organization
 
-Recommended sections/pages:
+Use [one canonical Paper file](STORYBOARDS.md) for the series. Separate pages keep episode sequences distinct while sharing the editable asset library:
 
 ```text
-00 SYSTEM
-01 TOKENS
-02 ROADS
-03 VEHICLES
-04 CHARACTERS
-05 MARKINGS
-06 FX
-07 CAPTIONS
-08 BEHAVIOURS
-09 EPISODE TEMPLATES
-10 EP001
-11 EP002
-12 EP003
+00 / SHARED ASSETS & FOUNDATIONS
+01 / EP001 — INDICATE. THEN MOVE.
+02 / EP002 — DIM YOUR HIGH BEAMS.
+03 / EP003 — THE SHOULDER IS NOT A LANE
+04 / EP004 — PASS. RETURN LEFT.
 ...
 ```
+
+Add future episode pages to this same file. Keep text and vector groups editable; namespace historical episode tokens where scales differ. The originals linked in the storyboard index remain provenance rather than active production destinations. EP004 is storyboard-only until its separate Cavalry motion/render phase.
 
 ## Naming contract
 
