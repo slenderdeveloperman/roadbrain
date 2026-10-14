@@ -748,8 +748,8 @@ Use zero-based boundaries, with the end boundary exclusive. Nominal 1.55 s falls
 
 ## Audio and motion handoff status
 
-A Hook A master was rendered in Cavalry on 2026-10-14: 1080 × 1920, 30 fps, 756 frames, exactly 25.20 s, with original 48 kHz stereo civic-motif audio. The four notes are C5–E5–D5–G5 in a `DA — da-da — DA` rhythm; surrounding ticks, hum and displaced echoes degrade through collapse and disappear at the clean correction.
+The Hook A picture master is rendered: 1080 × 1920, 30 fps, 756 frames, exactly 25.20 s. At the user's request, the generated civic soundtrack was removed from the movie, editable Cavalry scene, asset folder and rebuild script. The user will supply a different soundtrack separately; no replacement has been added. The creative audio directions above remain the earlier brief, not an instruction to regenerate the removed track.
 
-The editable scene, exported vectors/fonts, audio, rebuild script, movie and validation report are in `outputs/EP003/` in the producing Codex workspace. These binary deliverables are kept outside this documentation repository. See [the render handoff](../EP003_RENDER.md) for the implementation and exact render settings.
+The current movie is `outputs/EP003/ROAD_BRAIN_EP003_SILENT.mp4` in the producing Codex workspace; the original master filename also contains the same silent picture. The editable scene, exported vectors/fonts, rebuild script and validation report are alongside it. See [the render handoff](../EP003_RENDER.md).
 
-The rendered sequence and its cut boundaries were visually checked. The exported movie passed metadata checks for dimensions, 756 frames, 30 fps, matching 25.20-second picture/audio duration, and 48 kHz stereo. Audio measured approximately −16.03 LUFS integrated / −5.96 dBTP. Audience memorability and the hum test remain creative evaluation tasks; they are not established by technical export checks.
+Verification confirms zero audio streams, an identical encoded picture hash before/after removal, 1080 × 1920, 756 frames, 30 fps, and a 25.20-second duration. Cavalry audio export is disabled for future renders.

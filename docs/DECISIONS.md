@@ -23,7 +23,7 @@ The joke may be complicated. The instruction cannot.
 See [EP003](episodes/EP003_SHOULDER_IS_NOT_A_LANE.md) for exact boundaries, hook tests, and the 30 fps rounding convention.
 
 ### Recurring audio
-EP003 introduces a repeatable 3–4-note civic mnemonic. Preserve its contour, rhythm, and approximate duration while changing surrounding noise and degradation. The rendered EP003 master uses C5–E5–D5–G5 in a `DA — da-da — DA` rhythm; see [the render handoff](EP003_RENDER.md). EP001/EP002 retain their earlier carrier.
+EP003 introduces a repeatable 3–4-note civic mnemonic. Preserve its contour, rhythm, and approximate duration while changing surrounding noise and degradation. The generated EP003 soundtrack was subsequently removed at the user’s request. EP003 delivery is picture-only, with replacement audio to be supplied separately by the user; see [the render handoff](EP003_RENDER.md). EP001/EP002 retain their earlier carrier.
 
 ### Current production roles
 - Paper = assets / tokens / storyboard / static source of truth

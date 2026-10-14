@@ -14,3 +14,9 @@
 - Composed an original four-note civic motif with stage-specific surroundings and a clean correction.
 - Delivered the editable scene and a verified 1080 × 1920 / 30 fps / 756-frame / 25.20-second MP4 with 48 kHz stereo audio.
 - Documented Cavalry's percentage-based `resolutionScale` and the confirmed foreground render path.
+
+### EP003 picture-only handoff
+
+- Removed the generated soundtrack from the EP003 movie, editable Cavalry scene, source assets and rebuild script at the user's request.
+- Disabled audio in future Cavalry exports and supplied `ROAD_BRAIN_EP003_SILENT.mp4`; the original master filename is also updated to silent picture.
+- Verified zero audio streams and an unchanged encoded picture hash, retaining 1080 × 1920, 30 fps, 756 frames and 25.20 seconds. Replacement soundtrack will be added separately by the user.

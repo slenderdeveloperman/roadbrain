@@ -4,9 +4,9 @@ Rendered 2026-10-14 from the current [Paper storyboard](https://app.paper.design
 
 ## Delivered master
 
-Default hook A. 1080 × 1920, H.264, 30 fps, 756 frames, 25.20 seconds. Stereo AAC, 48 kHz, matching 25.20-second duration.
+Default hook A. 1080 × 1920, H.264, 30 fps, 756 frames, 25.20 seconds. Picture-only: no audio stream. The user will supply a replacement soundtrack separately.
 
-The producing Codex workspace contains `outputs/EP003/ROAD_BRAIN_EP003.mp4`, `ROAD_BRAIN_EP003.cv`, the `assets/` folder, `build_ep003.js`, `EP003_contact_sheet.jpg`, `validation.json`, and a local README. Binary deliverables are outside this documentation repository. The native scene retains existing compositions and opens on `EP003 MASTER — THE SHOULDER IS NOT A LANE`; the original EP002 scene was not overwritten.
+The producing Codex workspace contains `outputs/EP003/ROAD_BRAIN_EP003_SILENT.mp4` (and the original master filename updated to the same silent picture), `ROAD_BRAIN_EP003.cv`, the `assets/` folder, `build_ep003.js`, `EP003_contact_sheet.jpg`, `validation.json`, and a local README. Binary deliverables are outside this documentation repository. The native scene retains existing compositions and opens on `EP003 MASTER — THE SHOULDER IS NOT A LANE`; the original EP002 scene was not overwritten.
 
 ## Implementation
 
@@ -16,26 +16,27 @@ The producing Codex workspace contains `outputs/EP003/ROAD_BRAIN_EP003.mp4`, `RO
 - Two copycats enter with staggered timing. The shoulder barrier is positioned ahead of upward-moving traffic so that its forced merge is causally clear.
 - Diagnostics switch discretely; there is no hook type-on animation. A 21-frame consensus caption implements the 0.5–0.8-second text event.
 - Collapse combines expanding road width, lane proliferation, opposing merge vectors, short registration faults and 12 fps temporal holds. Captions stay readable.
-- At frame 585 the shoulder empties, geometry resets, sound cleans up, and vehicles wait/advance normally. The final rule begins at frame 708.
+- At frame 585 the shoulder empties, geometry resets and vehicles wait/advance normally. The final rule begins at frame 708.
 - Stage metadata from the Paper storyboard is excluded from the picture.
 
 ## Audio
 
-Original C5–E5–D5–G5 civic motif; a bright FM-pluck/cheap-keyboard character follows `DA — da-da — DA`. Clean repetitions retain the same contour and rhythm. Ticks, hum, subtle detuning, late duplicate notes and overload grow around it; correction restores the pristine motif. Integrated loudness measured −16.03 LUFS with true peak −5.96 dBTP.
+The generated civic soundtrack, sound layer and source audio asset were removed at the user's request. The editable scene, rebuild script and delivered movies are picture-only. The user will add a different soundtrack separately; no replacement has been added.
 
 ## Render settings and lessons
 
-Cavalry Render Manager: MP4 / Very High, frames 0–755, **100%** resolution, audio enabled. `resolutionScale: 100` is full resolution; `resolutionScale: 1` produces a 1% render. The confirmed export path uses `api.render(renderQueueItemId)`.
+Cavalry Render Manager: MP4 / Very High, frames 0–755, **100%** resolution, audio disabled. `resolutionScale: 100` is full resolution; `resolutionScale: 1` produces a 1% render. The confirmed export path uses `api.render(renderQueueItemId)`.
 
 A new native composition's `on` Attributes have default inputs; scripted hard visibility gates must connect with `force: true`. SVG assets are loaded through `api.loadAsset` and `api.addAssetToComp`; assigning an asset id as an ordinary scalar input does not bind the asset.
 
-FFmpeg preserves the Cavalry H.264 picture, trims the AAC tail to exactly 25.20 s, and adds fast-start container metadata.
+FFmpeg removes the audio stream with `-map 0:v:0 -c:v copy -an`. The encoded H.264 picture hash is identical before and after removal; the duration remains exactly 25.20 s.
 
 ## Verification
 
-- Metadata assertions: 1080 × 1920, 30/1 fps, 756 frames, matching 25.20-second picture/audio/container duration, 48 kHz stereo.
+- Metadata assertions: 1080 × 1920, 30/1 fps, 756 frames, 25.20-second picture/container duration, exactly one video stream and zero audio streams.
 - Visual review: frames 24, 120, 225, 275, 420, 550, 600 and 735 in the exported movie.
 - Boundary review: frames 0, 5, 6, 46, 47, 584, 585, 707, 708 and 755.
-- Audio loudness and true-peak measurement; no clipping.
+- SHA-256 comparison of the encoded picture stream before/after audio removal: identical.
+- Cavalry verification: no EP003 sound layer or generated soundtrack asset remains; `generator.exportAudio` is false.
 
 Technical checks do not establish the hum test or predict audience response. The three alternate hooks remain available in Paper; the delivered video uses hook A.
