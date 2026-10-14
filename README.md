@@ -39,4 +39,4 @@ ROAD BRAIN is in active prototype production. EP001 establishes the grammar; EP0
 
 ## EP003 storyboard
 
-[Open the editable Paper storyboard](https://app.paper.design/file/01M4WW7Z0Q227S7MJN4DJX2652/p-1-0). The main sequence and opening-only A/B/C/D tests follow the updated [EP003 specification](docs/episodes/EP003_SHOULDER_IS_NOT_A_LANE.md). Motion and composed mnemonic audio remain production work.
+[Open the editable Paper storyboard](https://app.paper.design/file/01M4WW7Z0Q227S7MJN4DJX2652/p-1-0). The main sequence and opening-only A/B/C/D tests follow the updated [EP003 specification](docs/episodes/EP003_SHOULDER_IS_NOT_A_LANE.md). The Hook A video and original four-note audio have been rendered in Cavalry; see the [render handoff](docs/EP003_RENDER.md) for verified output specifications and editable deliverables.

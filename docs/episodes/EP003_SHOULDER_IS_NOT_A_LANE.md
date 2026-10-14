@@ -746,6 +746,10 @@ Use zero-based boundaries, with the end boundary exclusive. Nominal 1.55 s falls
 | Rule card | 23.60 | 708 |
 | Hard end | 25.20 | 756 |
 
-## Audio handoff status
+## Audio and motion handoff status
 
-The brief defines the mnemonic's behavior and escalation, not its final pitches or recorded master. Compose the 3–4-note motif, confirm its contour/rhythm and hum test, then produce the clean and degraded stems. Do not claim the hum test, replay rhythm, or audiovisual relief has passed until the actual audio and motion render are reviewed.
+A Hook A master was rendered in Cavalry on 2026-10-14: 1080 × 1920, 30 fps, 756 frames, exactly 25.20 s, with original 48 kHz stereo civic-motif audio. The four notes are C5–E5–D5–G5 in a `DA — da-da — DA` rhythm; surrounding ticks, hum and displaced echoes degrade through collapse and disappear at the clean correction.
+
+The editable scene, exported vectors/fonts, audio, rebuild script, movie and validation report are in `outputs/EP003/` in the producing Codex workspace. These binary deliverables are kept outside this documentation repository. See [the render handoff](../EP003_RENDER.md) for the implementation and exact render settings.
+
+The rendered sequence and its cut boundaries were visually checked. The exported movie passed metadata checks for dimensions, 756 frames, 30 fps, matching 25.20-second picture/audio duration, and 48 kHz stereo. Audio measured approximately −16.03 LUFS integrated / −5.96 dBTP. Audience memorability and the hum test remain creative evaluation tasks; they are not established by technical export checks.

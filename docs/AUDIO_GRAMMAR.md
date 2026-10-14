@@ -4,7 +4,7 @@
 
 EP003 establishes a **3–4-note civic jingle** as the recurring recognition device. The melody is foreground; industrial textures are seasoning. The full [EP003 brief](episodes/EP003_SHOULDER_IS_NOT_A_LANE.md) governs its timing and audio requirements.
 
-The motif must be slightly cheerful, faintly bureaucratic, rhythmically distinctive, and singable after one or two exposures. Candidate sounds include cheap electric keyboard, toy xylophone/bell, municipal PA synth, or clean FM pluck. Suggested rhythmic sketches include `DA — da-da — DA` and `DA-da / DA… da`; final pitches and the recorded master are still to be composed. No epic score or ominous horror music.
+The motif must be slightly cheerful, faintly bureaucratic, rhythmically distinctive, and singable after one or two exposures. Candidate sounds include cheap electric keyboard, toy xylophone/bell, municipal PA synth, or clean FM pluck. Suggested rhythmic sketches include `DA — da-da — DA` and `DA-da / DA… da`; EP003 now has an original C5–E5–D5–G5 master in that four-note rhythm, rendered on 2026-10-14; see [the render handoff](EP003_RENDER.md). No epic score or ominous horror music.
 
 Preserve the essential melodic contour, rhythm, and approximate motif duration across episodes. Change traffic noise, relay clicks, horns, signal sounds, surrounding instrumentation, and degradation. Never destroy the melodic identity.
 
