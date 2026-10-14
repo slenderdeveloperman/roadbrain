@@ -1,8 +1,27 @@
 # ROAD BRAIN — Episode Grammar
 
-## Current fixed carrier
+## EP003: current hook-first format
 
-Every current ROAD BRAIN transmission uses the same **25.2-second** five-state carrier.
+EP003 targets **25.2 seconds** and opens mid-violation. Its current specification overrides the earlier clean-first grammar below:
+
+```text
+0.00–0.20   VISUAL INTERRUPT — already crossing the shoulder line
+0.20–1.55   HOOK — YOU DIDN’T FIND A FASTER LANE.
+1.55–4.90   CONDITION — one driver appears to benefit
+4.90–9.80   SOCIAL CONTAGION — copycats force merging
+9.80–14.70  GEOMETRY FAILURE — lane count 4 → 6 → 11
+14.70–19.50 COLLAPSE — infinite width, average speed zero
+19.50–23.60 CORRECTION — empty shoulder, predictable waiting
+23.60–25.20 RULE — THE SHOULDER IS NOT A LANE.
+```
+
+Hook = accusation; system = bureaucracy; rule = calm authority. Keep all picture/audio after the 1.55-second opening identical across hook tests A/B/C/D. At 30 fps, use frame 47 for the nominal 1.55-second cut; full boundaries and acceptance criteria are in [EP003](episodes/EP003_SHOULDER_IS_NOT_A_LANE.md).
+
+The mnemonic introduced by EP003 preserves melodic identity through changing surroundings; see [Audio Grammar](AUDIO_GRAMMAR.md). The existing EP001/EP002 masters remain unchanged.
+
+## EP001/EP002 baseline carrier
+
+The earlier ROAD BRAIN productions use the **25.2-second** five-state carrier:
 
 ```text
 0.0–4.9    CLEAN
@@ -139,7 +158,7 @@ A useful internal shorthand:
 RESET — calm correction
 ```
 
-Not every episode needs every level. The five-state timeline is fixed; the intensity within it can vary.
+Not every episode needs every level. EP001/EP002 retain the five-state timeline; EP003 follows its hook-first override above.
 
 ## The loop test
 
@@ -148,5 +167,5 @@ Before export, ask:
 2. Can the rule be understood if all joke captions are removed?
 3. Does loop/state 4 feel meaningfully worse than state 3?
 4. Does state 5 feel calmer than state 1?
-5. Does the recurring audio still fit without custom rescoring?
+5. Does the recurring sonic identity remain recognizable? EP003 repeats its mnemonic while changing the surrounding sound.
 6. Could the ending cut back to the beginning cleanly if needed?

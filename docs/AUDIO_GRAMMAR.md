@@ -1,6 +1,41 @@
 # ROAD BRAIN — Audio Grammar
 
-## North star
+## Current direction: EP003 mnemonic
+
+EP003 establishes a **3–4-note civic jingle** as the recurring recognition device. The melody is foreground; industrial textures are seasoning. The full [EP003 brief](episodes/EP003_SHOULDER_IS_NOT_A_LANE.md) governs its timing and audio requirements.
+
+The motif must be slightly cheerful, faintly bureaucratic, rhythmically distinctive, and singable after one or two exposures. Candidate sounds include cheap electric keyboard, toy xylophone/bell, municipal PA synth, or clean FM pluck. Suggested rhythmic sketches include `DA — da-da — DA` and `DA-da / DA… da`; final pitches and the recorded master are still to be composed. No epic score or ominous horror music.
+
+Preserve the essential melodic contour, rhythm, and approximate motif duration across episodes. Change traffic noise, relay clicks, horns, signal sounds, surrounding instrumentation, and degradation. Never destroy the melodic identity.
+
+| Stage | Motif | Surroundings |
+|---|---|---|
+| Hook, 0.00–1.55 s | Pristine | Relay click, faint crossing signal, road hum |
+| Condition, 1.55–4.90 s | Identical, pristine | Sparse civic texture |
+| Social contagion, 4.90–9.80 s | Same melody; slight final-note detuning permitted | Extra tick and clipped horn transient |
+| Geometry failure, 9.80–14.70 s | Still unmistakable | Late duplicate note, wrong click subdivision, mild edge bitcrush |
+| Collapse, 14.70–19.50 s | Recognizable through chaos | Clipping, desync, octave doubling, overload around the tune |
+| Correction, 19.50–23.60 s | Perfectly clean | Almost nothing; optional pleasant low click |
+| Rule, 23.60–25.20 s | One pristine resolve | Immediate silence at hard end |
+
+## Current production checks
+
+- First melody exposure is foreground and memorable.
+- All repetitions preserve the melodic identity.
+- Hook tests replace only the opening; the 1.55–25.20 picture/audio carrier is identical.
+- The hard reset removes noise, detuning, and distortion immediately.
+- The clean return feels ordinary and satisfying, never heroic.
+- A listener can hum the motif after two or three repetitions.
+- The final and opening notes support intentional replay.
+
+The last two checks require composed audio and a rendered episode. Static Paper boards cannot verify them.
+
+## Earlier EP001/EP002 audio reference
+
+The following documents the earlier carrier. Preserve those existing masters; the requirement to reuse that exact recording does **not** apply to the updated EP003. The legacy industrial carrier is superseded as the default sonic direction by the mnemonic above.
+
+
+### Earlier north star
 
 The recurring music is not background. It is the **carrier signal** for ROAD BRAIN transmissions.
 

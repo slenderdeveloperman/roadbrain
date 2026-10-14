@@ -18,13 +18,12 @@ The joke may be complicated. The instruction cannot.
 ```
 
 ### Current timing grammar
-```text
-25.2 seconds
-clean → pressured → broken → collapsing → calm/correct
-```
+25.2-second runtime target. EP003 starts mid-violation and uses hook → condition → social contagion → geometry failure → collapse → correction → rule. Its hard reset is at 19.50 s and its rule card at 23.60 s. EP001/EP002 retain their earlier clean-first five-state masters.
+
+See [EP003](episodes/EP003_SHOULDER_IS_NOT_A_LANE.md) for exact boundaries, hook tests, and the 30 fps rounding convention.
 
 ### Recurring audio
-Reuse the EP001 carrier track across current episodes. Visuals adapt to the audio grammar, not vice versa.
+EP003 introduces a repeatable 3–4-note civic mnemonic. Preserve its contour, rhythm, and approximate duration while changing surrounding noise and degradation. The final notes/master remain to be composed. EP001/EP002 retain their earlier carrier.
 
 ### Current production roles
 - Paper = assets / tokens / storyboard / static source of truth
@@ -38,6 +37,13 @@ Institutional grotesk + utilitarian mono. No dedicated glitch font.
 Simple stacked `ROAD / BRAIN` direction. Circular/compact treatment is valid. Reduce embellishment and keep glitch restrained.
 
 ## Superseded / deprecated
+
+### Earlier EP003 shoulder episode
+The clean establishing shot, `NO.` rejection beat, ambulance payoff, and unchanged EP001 carrier were replaced on 2026-10-14 by the supplied hook-first specification. The causal payoff is now `ROAD WIDTH: INFINITE` → `AVERAGE SPEED: 0`, followed by ordinary waiting in the proper lane and an empty shoulder. The final rule is primary; `DRIVE PREDICTABLY.` is secondary.
+
+### Exact EP001 master reuse as the default for every new episode
+EP003 moves recognition from environmental industrial atmosphere to a recurring civic mnemonic. This changes new production direction without rewriting the existing EP001/EP002 masters.
+
 
 ### Figma as primary ROAD BRAIN source of truth
 Early plan:

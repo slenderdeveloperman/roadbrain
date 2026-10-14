@@ -205,3 +205,7 @@ Before export:
 - one-frame glitches remain intentional rather than muddy;
 - final card has no corruption;
 - every surreal element is subordinate to the road behaviour.
+
+## EP003 hook-first typography override
+
+The updated [EP003](episodes/EP003_SHOULDER_IS_NOT_A_LANE.md) uses three distinct voices: enormous accusatory hook, small peripheral bureaucratic diagnostics, and an immaculate centered rule. Use Inter for the hook/rule and IBM Plex Mono for diagnostics. Hook A fits two lines, appears fully formed near frame zero, and has no logo or decorative entrance. Diagnostics stay understated; the final shoulder rule dominates the smaller `DRIVE PREDICTABLY.` line. Preserve the existing palette and semantic editable layers.
