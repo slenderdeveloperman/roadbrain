@@ -2,6 +2,11 @@
 
 ## 2026-10-14
 
+### EP004 sharper commentary
+
+- Applied the approved Paper copy: `ONE OVERTAKE. LIFETIME APPOINTMENT.`, `LEFT LANE: CLEAR. EXCUSE: NONE.`, `PUBLIC ROAD. PRIVATE DELUSION.`, `AUTHORITY: SELF-ISSUED`, and `ALL HAIL THE BOTTLENECK.`
+- Adjusted hook/payoff typography for readable two-line captions, reviewed the five changed boards, and synchronized the motion handoff. Story flow, timings, correction and final road rule remain unchanged.
+
 ### Unified storyboards and EP004
 
 - Consolidated all 37 existing EP001–EP003 Paper artboards into one canonical file before adding EP004, preserving editable text, vector groups, assets and EP003 hook tests.

@@ -8,9 +8,11 @@
 
 A driver completes an overtake, has a clear safe opportunity to return left, but stays in the right lane. The institution mistakes this indefinite residency for a territorial claim. A ceremonial border forms, a crown descends, and the lane becomes a tiny kingdom with its own customs queue. Hard reset: signal, check the gap, return left normally.
 
-Hook: **YOU PASSED A CAR. NOT A BORDER.**
+Hook: **ONE OVERTAKE. LIFETIME APPOINTMENT.**
 
-Payoff: **YOU OWN A CAR. NOT THIS LANE.**
+Payoff: **ALL HAIL THE BOTTLENECK.**
+
+Approved copy pass: the institution diagnoses the driver's self-importance through `LEFT LANE: CLEAR. / EXCUSE: NONE.`, `PUBLIC ROAD. / PRIVATE DELUSION.`, and `AUTHORITY: SELF-ISSUED`. Keep delivery neutral, with no shouted emphasis or exclamation marks. The correction returns to plain professional instruction. The story flow, shot timings, road artwork and final rule stay the same.
 
 Rule: **PASS. RETURN LEFT.** Qualification on the same final card: **WHEN SAFE.** Brand closure: **DRIVE PREDICTABLY.**
 
@@ -23,12 +25,12 @@ Frame ranges are inclusive. Nominal 1.55 s rounds to frame 47 at 30 fps. The act
 | Board | Nominal time | Frames | Picture / copy | Motion intent |
 | --- | --- | --- | --- | --- |
 | 00 Visual interrupt | 0.00–0.20 | 0–5 | Amber car ahead in right lane; white overtaken car behind in left. Both lanes travel upward. | Open during completion of a pass, with road motion already running. |
-| 01 Hook | 0.20–1.55 | 6–46 | `YOU PASSED A CAR. / NOT A BORDER.` | Caption interrupts the live road action; no logo-first introduction. |
+| 01 Hook | 0.20–1.55 | 6–46 | `ONE OVERTAKE. / LIFETIME APPOINTMENT.` | Caption interrupts the live road action; no logo-first introduction. |
 | 02 Condition | 1.55–4.90 | 47–146 | `OVERTAKE / COMPLETE.` Diagnostic: `LEFT: CLEAR / RIGHT: STILL OCCUPIED`. | Establish ample clearance ahead of the passed vehicle. The amber car remains right. |
-| 03 Detection | 4.90–9.80 | 147–293 | `RETURN LEFT? / STILL PENDING.` Diagnostic: `PASSING: COMPLETE / RESIDENCY: INDEFINITE`. | Hold the unnecessary right-lane occupancy while the bureaucracy notices. |
-| 04 Territory | 9.80–12.20 | 294–365 | `WELCOME TO / THE RIGHT LANE.` Fictional dashed border and generic pennant. | `TERRITORY_ESTABLISH`: trace the border around the occupied right lane. |
-| 05 Crown | 12.20–14.70 | 366–440 | `RIGHT LANE / RAJA.` Diagnostic: `OVERTAKE: COMPLETE / ABDICATION: DECLINED`. | `CROWN_DROP`: ceremonial reveal; one short failed classification/hold, not a permanent glitch filter. |
-| 06 Collapse | 14.70–19.50 | 441–584 | `YOU OWN A CAR. / NOT THIS LANE.` Two following cars queue behind the mock customs boundary. | `QUEUE_BUILD`: stagger the two cars. Increase bureaucratic residue, then interrupt hard at frame 585. |
+| 03 Detection | 4.90–9.80 | 147–293 | `LEFT LANE: CLEAR. / EXCUSE: NONE.` Diagnostic: `PASSING: COMPLETE / RESIDENCY: INDEFINITE`. | Hold the unnecessary right-lane occupancy while the bureaucracy notices. |
+| 04 Territory | 9.80–12.20 | 294–365 | `PUBLIC ROAD. / PRIVATE DELUSION.` Fictional dashed border and generic pennant. | `TERRITORY_ESTABLISH`: trace the border around the occupied right lane. |
+| 05 Crown | 12.20–14.70 | 366–440 | `RIGHT LANE / RAJA.` Diagnostic: `AUTHORITY: SELF-ISSUED`. | `CROWN_DROP`: ceremonial reveal; one short failed classification/hold, not a permanent glitch filter. |
+| 06 Collapse | 14.70–19.50 | 441–584 | `ALL HAIL / THE BOTTLENECK.` Two following cars queue behind the mock customs boundary. | `QUEUE_BUILD`: stagger the two cars. Increase bureaucratic residue, then interrupt hard at frame 585. |
 | 07 Correction | 19.50–23.60 | 585–707 | `SIGNAL. CHECK. / RETURN LEFT.` White car with left indicator, checked gap and ordinary trajectory. | Remove crown/border/queue effects instantly. Blink left indicator before lateral movement; check clearance and return smoothly without cutting in. Turn signal off after completion. |
 | 08 Rule | 23.60–25.20 | 708–755 | `PASS. / RETURN LEFT.` + `WHEN SAFE.` + secondary brand closure. | Pristine white card; no corruption or celebratory hero treatment. |
 
@@ -37,6 +39,8 @@ The storyboard contains representative keyframes, not every intermediate motion 
 ## Visual system
 
 Use the existing ROAD BRAIN signage system: ink black, white, asphalt `#2A2A2A`, lane white `#F2F2F2`, amber `#FFB000`, and warning red `#FF2B2B`. Inter 800 gives the 64–96 px headline hierarchy; IBM Plex Mono 24 px handles diagnostics. Road width is 720 px within a 1080 px canvas. Two 360 px lanes belong to one carriageway and travel in the same direction; both upward arrows are explicit. The amber offender becomes an ordinary white car after reset.
+
+The approved longer hook uses 64 px type / 68 px line height to stay on two lines. The bottleneck payoff uses 80 px type / 80 px line height. Both were checked in Paper for fit and contrast.
 
 Reuse the kernel hatchback. New editable vector groups are a generic three-point crown, dashed territorial border/pennant, symbolic customs boundary, and safe-return path. No real sovereign, political, religious or government insignia is used. Crown/border effects belong exclusively to the violation.
 
