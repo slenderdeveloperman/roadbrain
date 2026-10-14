@@ -2,6 +2,12 @@
 
 ## 2026-10-14
 
+### EP004 Cavalry motion preview
+
+- Built the first editable EP004 Cavalry composition from the current Paper vector boards, with the pass, right-lane residency, border/crown escalation, staggered customs queue, signalled safe return and final rule card.
+- Rendered a silent H.264 preview at 1080 × 1920, 30 fps, 756 frames and 25.20 seconds; confirmed the export contains no audio stream.
+- Saved the scene, rebuild script and preview under the workspace's `outputs/EP004/` handoff folder. Motion remains a review preview, with soundtrack and publication still open.
+
 ### EP004 sharper commentary
 
 - Applied the approved Paper copy: `ONE OVERTAKE. LIFETIME APPOINTMENT.`, `LEFT LANE: CLEAR. EXCUSE: NONE.`, `PUBLIC ROAD. PRIVATE DELUSION.`, `AUTHORITY: SELF-ISSUED`, and `ALL HAIL THE BOTTLENECK.`

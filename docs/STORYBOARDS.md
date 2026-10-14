@@ -28,4 +28,4 @@ Original files remain available as provenance. The unified file is the destinati
 
 Each imported/new artboard was reviewed through Paper screenshots. Final checks covered text hierarchy, contrast, alignment, clipping, chronological horizontal placement, page counts, and source completeness. EP004's customs label was moved clear of the lead car, and its correction explicitly lights the left indicator. The clean final card gives the road rule priority over the brand line.
 
-These are editable static storyboards. EP004 animation, soundtrack and video rendering have not been produced in this unit of work.
+The storyboards remain editable. EP004 now also has a first picture-only Cavalry motion preview; see the [motion handoff](episodes/EP004_PASS_RETURN_LEFT.md) for the local scene, preview, format and status.

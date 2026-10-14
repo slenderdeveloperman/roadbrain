@@ -1,6 +1,6 @@
 # ROAD BRAIN EP004 — PASS. RETURN LEFT.
 
-**Concept:** Right Lane Raja. **Status:** nine editable Paper keyframes completed; motion and video render pending. **Format:** 1080 × 1920, 30 fps, 25.2 seconds / 756 frames. Picture-only preparation; no generated soundtrack.
+**Concept:** Right Lane Raja. **Status:** nine editable Paper keyframes and a first Cavalry motion preview completed. **Format:** 1080 × 1920, 30 fps, 25.2 seconds / 756 frames. Picture-only; no soundtrack.
 
 [Open EP004 in the unified storyboard file](https://app.paper.design/file/01M4XBCQ0SFYHGKEF9NWC2R334/p-5-0). See [the full storyboard index](../STORYBOARDS.md).
 
@@ -67,6 +67,12 @@ The corrective action therefore waits for safe clearance and respects signs/mark
 - Final card remains clean throughout frames 708–755 and includes `WHEN SAFE.`
 - Export is 1080 × 1920, 30 fps, 756 frames, 25.20 seconds. No audio track is added unless separately requested.
 
-## Static verification completed
+## Motion preview handoff
 
-Nine native Paper boards reviewed. Corrected the customs-label overlap and lit the left indicator. Verified all board dimensions, temporal ordering, final rule hierarchy and inclusion in the unified file. No Cavalry animation or rendered EP004 movie is claimed by this storyboard delivery.
+The first motion pass is saved as an editable Cavalry composition and a silent H.264 preview in the workspace's `outputs/EP004/` folder (`ROAD_BRAIN_EP004.cv` and `ROAD_BRAIN_EP004_MOTION_PREVIEW.mp4`). `build_ep004.js` rebuilds the composition from the adjacent Paper SVG/font exports. The full-resolution render was checked at the hook, completed-pass, detection, territory, crown, bottleneck, correction and final-card beats. The output is 1080 × 1920, 30 fps, 756 frames / 25.20 seconds, with no audio stream.
+
+The pass completes before the driver holds the right lane; border, crown and customs effects enter in sequence, then clear at frame 585. The correction shows the left indicator before lateral movement and follows the Paper safe-gap trajectory. The final 48 frames hold the clean `PASS. / RETURN LEFT.` rule with `WHEN SAFE.` and `DRIVE PREDICTABLY.` This is a motion preview for review, not a published or final-audio master.
+
+## Storyboard verification completed
+
+Nine native Paper boards reviewed. Corrected the customs-label overlap and lit the left indicator. Verified all board dimensions, temporal ordering, final rule hierarchy and inclusion in the unified file. Cavalry motion and the picture-only preview are now available in the workspace handoff above.

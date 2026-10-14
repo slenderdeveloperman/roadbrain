@@ -37,7 +37,7 @@ The joke may be complicated. The instruction cannot.
 
 ## Status
 
-ROAD BRAIN is in active prototype production. EP001 establishes the grammar; EP002 and EP003 deliberately break different parts of the same institutional system. EP004's Right Lane Raja storyboard is complete in the unified Paper file; motion and rendering remain pending.
+ROAD BRAIN is in active prototype production. EP001 establishes the grammar; EP002 and EP003 deliberately break different parts of the same institutional system. EP004's Right Lane Raja storyboard and first silent Cavalry motion preview are complete; its editable scene and render handoff are documented in the episode specification.
 
 ## EP003 storyboard
 
@@ -45,4 +45,4 @@ ROAD BRAIN is in active prototype production. EP001 establishes the grammar; EP0
 
 ## EP004 storyboard
 
-[Open EP004 — PASS. RETURN LEFT.](https://app.paper.design/file/01M4XBCQ0SFYHGKEF9NWC2R334/p-5-0). Nine keyframes develop Right Lane Raja through a completed overtake, indefinite residency, a ceremonial border/crown, a customs queue, and a safe signalled return left. The same file contains all EP001–EP003 storyboards and shared assets: 46 artboards across five pages. See the [storyboard index](docs/STORYBOARDS.md) and [EP004 motion handoff](docs/episodes/EP004_PASS_RETURN_LEFT.md).
+[Open EP004 — PASS. RETURN LEFT.](https://app.paper.design/file/01M4XBCQ0SFYHGKEF9NWC2R334/p-5-0). Nine keyframes develop Right Lane Raja through a completed overtake, indefinite residency, a ceremonial border/crown, a customs queue, and a safe signalled return left. The same file contains all EP001–EP003 storyboards and shared assets: 46 artboards across five pages. See the [storyboard index](docs/STORYBOARDS.md) and [EP004 motion handoff](docs/episodes/EP004_PASS_RETURN_LEFT.md) for the silent Cavalry preview.
