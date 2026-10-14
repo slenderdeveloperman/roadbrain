@@ -1,5 +1,9 @@
 # ROAD BRAIN — Episode Grammar
 
+## EP001 v2: Telepathy Required
+
+EP001 v2 is an alternate version, not a replacement for the original reference storyboard or master. It keeps the 25.2-second / 30 fps carrier while using a ten-beat escalation: unsignalled lane change → telepathy protocol → false stability → intent changes → prediction collapse → indicator correction. The exact timing and copy live in [EP001 v2](episodes/EP001_V2_TELEPATHY_REQUIRED.md). The clean success beat at 13.20–15.80 seconds is essential; human intent changing is the cause of the collapse, not a decorative glitch effect.
+
 ## EP003: current hook-first format
 
 EP003 targets **25.2 seconds** and opens mid-violation. Its current specification overrides the earlier clean-first grammar below:

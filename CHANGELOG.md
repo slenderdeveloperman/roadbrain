@@ -2,6 +2,12 @@
 
 ## 2026-10-14
 
+### EP001 v2 — Telepathy Required
+
+- Added ten editable hook-first frames to a new page in the unified Paper storyboard, preserving the original EP001 storyboard and master.
+- Built a separate 1080 × 1920, 30 fps Cavalry composition and rebuild script for the telepathy protocol, temporary stable-network reversal, intent-change collapse, and indicator correction.
+- Kept the render picture-only with audio disabled. The Cavalry render connection dropped and left an invalid MP4; the preview is pending a successful render after Cavalry reconnects. Updated the episode grammar, storyboard index and production docs.
+
 ### EP004 Cavalry motion preview
 
 - Built the first editable EP004 Cavalry composition from the current Paper vector boards, with the pass, right-lane residency, border/crown escalation, staggered customs queue, signalled safe return and final rule card.
