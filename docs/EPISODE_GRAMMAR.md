@@ -33,7 +33,7 @@ EP005 keeps the 25.2-second / 30 fps hook-first carrier and localizes the situat
 
 ## EP006: Unmanned Junctions
 
-EP006 uses the 25.2-second / 30 fps hook-first carrier for an uncontrolled, unsignaled road junction: four approaches → ambiguous first move → traffic from the right has priority in the specified equal-class example → competing entry claims → blocked intersection → slow, safe yielding and clear-through. The nine editable frames and legal scope are in [EP006](episodes/EP006_UNMANNED_JUNCTIONS.md). Keep the example scoped: signals, mandatory signs and a minor-road exit onto a major road alter the right-of-way rule. Do not confuse this road-junction episode with an unmanned railway crossing.
+EP006 uses the 25.2-second / 30 fps hook-first carrier for an uncontrolled, unsignaled road junction: ask how to cross safely → establish the mixed-traffic four-way scene → slow and scan → check that the exit lane is clear before entering → show how rushing blocks all four sides → wait, yield as required, and clear the junction. The primary mnemonic is **WAIT UNTIL YOUR EXIT IS CLEAR**. In the specified equal-class example, traffic from the right has priority; signals, mandatory signs and a minor-road exit onto a major road alter the right-of-way rule. The nine editable frames and legal scope are in [EP006](episodes/EP006_UNMANNED_JUNCTIONS.md). Do not confuse this road-junction episode with an unmanned railway crossing.
 
 ## EP001/EP002 baseline carrier
 

@@ -5,9 +5,10 @@
 ### EP006 storyboard — Unmanned Junctions
 
 - Added nine editable EP006 keyframes to the unified ROAD BRAIN Paper file for an uncontrolled, unsignaled road junction.
-- Replaced block-shaped placeholders with the shared detailed hatchback vectors across all four approaches. Added top-down auto-rickshaw and scooter silhouettes to the Indian rush-hour gridlock/collapse boards, where cars, autos and two-wheelers crowd the same gap until all four sides are blocked and nobody can move.
-- Scoped the right-of-way example to an equal-priority junction and preserved exceptions for traffic control, mandatory signs and major-road priority. Final guidance emphasizes slowing, checking, yielding where required, and entering only when safe.
-- Added the EP006 storyboard specification and updated the storyboard index, episode grammar and production backlog. Motion and render remain open.
+- Opened with `HOW DO YOU CROSS THIS JUNCTION SAFELY?`, held for 1.55 seconds, then reordered the setup so the rule is taught before the gridlock payoff.
+- Added detailed shared hatchback vectors, auto-rickshaws and scooters to the opening and approach boards; the mixed traffic escalates into the four-way jam where nobody can move.
+- Made the central instruction explicit: check that the exit lane is clear before entering; wait behind the line when you cannot clear the junction. Kept yielding to traffic from the right in the scoped equal-class example, with exceptions for traffic control, mandatory signs and major-road priority.
+- Updated the frame timing, storyboard index, episode grammar and production backlog. Motion and render remain open.
 
 ### EP005 storyboard — One Lane at a Time
 
