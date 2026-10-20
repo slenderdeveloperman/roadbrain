@@ -2,6 +2,13 @@
 
 ## 2026-10-20
 
+### EP006 Raja POV — smoother gridlock unwind and vehicle detail
+
+- Reworked the jam rewind so Raja backs out first, then cross-traffic returns in staggered, eased groups to their approach lines instead of disappearing off-screen together.
+- Kept the waiting traffic visible through the east-exit clearance beat, then eased it away before the right-side check.
+- Replaced the car, auto-rickshaw and scooter artwork with higher-contrast top-down vectors featuring separate glass, body panels, lamps, bumpers, wheels and mirrors.
+- Saved the updated Cavalry scene and kept the build script and episode notes aligned; no soundtrack was added.
+
 ### EP006 alternate — wait for every approach to clear
 
 - Added north-side and west-side traffic-clearance hold beats to the separate south-to-east alternate; the lead stays behind the line during both.
