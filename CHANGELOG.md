@@ -8,6 +8,7 @@
 - Opened with `HOW DO YOU CROSS THIS JUNCTION SAFELY?`, held for 1.55 seconds, then reordered the setup so the rule is taught before the gridlock payoff.
 - Added detailed shared hatchback vectors, auto-rickshaws and scooters to the opening and approach boards; the mixed traffic escalates into the four-way jam where nobody can move.
 - Made the central instruction explicit: check that the exit lane is clear before entering; wait behind the line when you cannot clear the junction. Kept yielding to traffic from the right in the scoped equal-class example, with exceptions for traffic control, mandatory signs and major-road priority.
+- Redrew the auto-rickshaw and scooter as distinct top-down vector vehicles, with clear wheel, cabin, handlebar and seat details; spaced them apart from the hatchbacks across the junction boards.
 - Updated the frame timing, storyboard index, episode grammar and production backlog. Motion and render remain open.
 
 ### EP005 storyboard — One Lane at a Time
