@@ -2,6 +2,12 @@
 
 ## 2026-10-20
 
+### EP006 storyboard — Unmanned Junctions
+
+- Added nine editable EP006 keyframes to the unified ROAD BRAIN Paper file for an uncontrolled, unsignaled road junction.
+- Scoped the right-of-way example to an equal-priority junction and preserved exceptions for traffic control, mandatory signs and major-road priority. Final guidance emphasizes slowing, checking, yielding where required, and entering only when safe.
+- Added the EP006 storyboard specification and updated the storyboard index, episode grammar and production backlog. Motion and render remain open.
+
 ### EP005 storyboard — One Lane at a Time
 
 - Updated the nine editable 1080 × 1920 Paper keyframes to show an Indian left-side-traffic road narrowing from two lanes to one, with auto-rickshaw and two-wheeler silhouettes.

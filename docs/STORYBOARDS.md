@@ -2,7 +2,7 @@
 
 [Open the canonical Paper file](https://app.paper.design/file/01M4XBCQ0SFYHGKEF9NWC2R334).
 
-All future episode storyboard work belongs in this file, on a separate episode page. Updated from live Paper content on 2026-10-20: **65 artboards across seven pages**.
+All future episode storyboard work belongs in this file, on a separate episode page. Updated from live Paper content on 2026-10-20: **74 artboards across eight pages**.
 
 | Page | Content | Artboards |
 | --- | --- | ---: |
@@ -13,6 +13,7 @@ All future episode storyboard work belongs in this file, on a separate episode p
 | [04 / EP004 — PASS. RETURN LEFT.](https://app.paper.design/file/01M4XBCQ0SFYHGKEF9NWC2R334/p-5-0) | Nine Right Lane Raja keyframes | 9 |
 | [05 / EP005 — ONE LANE AT A TIME](https://app.paper.design/file/01M4XBCQ0SFYHGKEF9NWC2R334/p-7-0) | Nine keyframes: Indian two-lane road narrowing to one, bottleneck, and safe turn-by-turn merge | 9 |
 | [06 / EP001 v2 — TELEPATHY REQUIRED](https://app.paper.design/file/01M4XBCQ0SFYHGKEF9NWC2R334/p-6-0) | Ten hook-first frames: inferred intent, false success, human-intent reversal, collapse and indicator correction | 10 |
+| [07 / EP006 — UNMANNED JUNCTIONS](https://app.paper.design/file/01M4XBCQ0SFYHGKEF9NWC2R334/p-8-0) | Nine keyframes: uncontrolled junction, right-of-way example, gridlock and safe yielding correction | 9 |
 
 ## Consolidation and provenance
 
@@ -30,4 +31,4 @@ Original files remain available as provenance. The unified file is the destinati
 
 Each imported/new artboard was reviewed through Paper screenshots. Final checks covered text hierarchy, contrast, alignment, clipping, chronological horizontal placement, page counts, and source completeness. EP004's customs label was moved clear of the lead car, and its correction explicitly lights the left indicator. The clean final card gives the road rule priority over the brand line.
 
-The storyboards remain editable. EP004 has a first picture-only Cavalry motion preview; see its [motion handoff](episodes/EP004_PASS_RETURN_LEFT.md). EP005's nine keyframes now show the road narrowing from two lanes to one and the safe, orderly merge correction; motion/render remain open. See the [EP005 specification](episodes/EP005_ONE_LANE_AT_A_TIME.md). EP001 v2 is a separate, alternate telling and preserves the original EP001 reference storyboard and published master; see its [specification and motion handoff](episodes/EP001_V2_TELEPATHY_REQUIRED.md).
+The storyboards remain editable. EP004 has a first picture-only Cavalry motion preview; see its [motion handoff](episodes/EP004_PASS_RETURN_LEFT.md). EP005's nine keyframes now show the road narrowing from two lanes to one and the safe, orderly merge correction; motion/render remain open. See the [EP005 specification](episodes/EP005_ONE_LANE_AT_A_TIME.md). EP006 adds an uncontrolled junction storyboard with right-of-way exceptions scoped in the final copy; motion/render remain open. See the [EP006 specification](episodes/EP006_UNMANNED_JUNCTIONS.md). EP001 v2 is a separate, alternate telling and preserves the original EP001 reference storyboard and published master; see its [specification and motion handoff](episodes/EP001_V2_TELEPATHY_REQUIRED.md).

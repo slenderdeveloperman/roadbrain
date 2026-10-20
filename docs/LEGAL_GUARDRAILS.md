@@ -40,6 +40,11 @@ Public-facing wording:
 
 Avoid inventing penalty amounts unless verified for the relevant jurisdiction and date.
 
+### Uncontrolled intersections
+Regulation 9 of the Motor Vehicles (Driving) Regulations, 2017 requires slowing at intersections and not entering when doing so is likely to endanger road users. Traffic approaching from the right has right of way, except where the junction is regulated by an authorized person, traffic lights or mandatory signs, or where a vehicle exits a minor road onto a major road. Do not enter an intersection where traffic has come to a standstill. Regulation 15(2) also places right of way with the vehicle on the right at an intersection of roads of the same category.
+
+For EP006, public-facing copy is scoped to an uncontrolled, equal-class road junction and retains the sign/control and major-road-priority qualifier. See [EP006's source notes](episodes/EP006_UNMANNED_JUNCTIONS.md).
+
 ## Source baseline
 
 Primary legal baseline used during concept development:

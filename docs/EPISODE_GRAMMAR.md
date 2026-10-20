@@ -31,6 +31,10 @@ EP004 applies the same hook-first cut boundaries as EP003 to a different causal 
 
 EP005 keeps the 25.2-second / 30 fps hook-first carrier and localizes the situation to a marked two-lane road narrowing to one: the pinch appears → drivers crowd it side by side → the gap search and system diagnosis escalate → traffic resets to a signalled, checked, turn-by-turn merge when safe. The nine editable storyboard frames and frame ranges are in [EP005](episodes/EP005_ONE_LANE_AT_A_TIME.md). `MERGE IN TURN` is plain-language guidance, not a verbatim statutory quotation; the final card says `ONLY WHEN SAFE`, and drivers follow the road's signs and markings.
 
+## EP006: Unmanned Junctions
+
+EP006 uses the 25.2-second / 30 fps hook-first carrier for an uncontrolled, unsignaled road junction: four approaches → ambiguous first move → traffic from the right has priority in the specified equal-class example → competing entry claims → blocked intersection → slow, safe yielding and clear-through. The nine editable frames and legal scope are in [EP006](episodes/EP006_UNMANNED_JUNCTIONS.md). Keep the example scoped: signals, mandatory signs and a minor-road exit onto a major road alter the right-of-way rule. Do not confuse this road-junction episode with an unmanned railway crossing.
+
 ## EP001/EP002 baseline carrier
 
 The earlier ROAD BRAIN productions use the **25.2-second** five-state carrier:
