@@ -11,6 +11,13 @@
 - Redrew the auto-rickshaw and scooter as distinct top-down vector vehicles, with clear wheel, cabin, handlebar and seat details; spaced them apart from the hatchbacks across the junction boards.
 - Updated the frame timing, storyboard index, episode grammar and production backlog. Motion and render remain open.
 
+### EP006 storyboard — car clarity and exit-clear correction
+
+- Replaced the abstract red vehicle blocks and central cross with the detailed hatchback, auto-rickshaw and scooter artwork so the vehicles themselves explain the four-way gridlock. Specified the car silhouette in the episode notes: bonnet, front/rear glass, roof, mirrors, wheel arches, lights and dark window trim.
+- Expanded EP006 from nine to eleven boards while retaining 25.2 seconds / 756 frames: hold behind the line with the exit blocked; show the far-side lane clearing while the lead vehicle remains stopped; then enter only after the full exit and conflicting traffic are clear.
+- Added the mixed-traffic auto-rickshaw and scooter to the final rule card, keeping them visible in all storyboard frames.
+- Reviewed the revised gridlock, hold, exit-clear, entry and rule boards in Paper; synchronized timing and copy in the episode specification, grammar, index and backlog.
+
 ### EP005 storyboard — One Lane at a Time
 
 - Updated the nine editable 1080 × 1920 Paper keyframes to show an Indian left-side-traffic road narrowing from two lanes to one, with auto-rickshaw and two-wheeler silhouettes.
