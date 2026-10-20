@@ -18,6 +18,20 @@
 - Added the mixed-traffic auto-rickshaw and scooter to the final rule card, keeping them visible in all storyboard frames.
 - Reviewed the revised gridlock, hold, exit-clear, entry and rule boards in Paper; synchronized timing and copy in the episode specification, grammar, index and backlog.
 
+### EP006 storyboard — make exit clearance unmistakable
+
+- Expanded the correction to four visible states: exit blocked; far-side traffic begins to move while the lead vehicle holds; exit fully clears while the lead still holds; then the lead enters.
+- Added red, amber and green directional callouts that point to the far-side exit and label it `EXIT BLOCKED`, `EXIT CLEARING` or `EXIT CLEAR`.
+- Added one more keyframe and updated the EP006 count to twelve without changing the 25.2-second / 756-frame runtime. Autos and scooters remain in the new frame.
+- Updated the episode timing table, storyboard index, grammar and backlog to match the Paper sequence.
+
+### EP006 storyboard — separate exit clearance from right-of-way
+
+- Added a distinct hold frame after the exit lane opens: the lead vehicle remains behind the line while traffic from the right passes.
+- Added an amber `YIELD TO RIGHT` directional callout and `HOLD UNTIL CONFLICT PASSES` copy, followed by a separate green release frame.
+- Expanded EP006 to thirteen editable boards and kept the 25.2-second / 756-frame runtime unchanged; autos and scooters remain in the new frame.
+- Reviewed the clear-exit hold, right-yield hold, release and rule card in Paper, then synchronized the specification and episode documentation.
+
 ### EP005 storyboard — One Lane at a Time
 
 - Updated the nine editable 1080 × 1920 Paper keyframes to show an Indian left-side-traffic road narrowing from two lanes to one, with auto-rickshaw and two-wheeler silhouettes.
