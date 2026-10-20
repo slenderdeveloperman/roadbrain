@@ -27,6 +27,10 @@ The mnemonic introduced by EP003 preserves melodic identity through changing sur
 
 EP004 applies the same hook-first cut boundaries as EP003 to a different causal sequence: completed pass → unnecessary residency → territorial border/crown → customs queue → safe signalled return → rule. Its territory/crown split is at 12.20 s. See [EP004](episodes/EP004_PASS_RETURN_LEFT.md) for inclusive frame ranges and the picture-only handoff. This does not change the existing EP001/EP002 carrier below.
 
+## EP005: One Lane at a Time
+
+EP005 keeps the 25.2-second / 30 fps hook-first carrier and breaks lane-state tracking: target lane acquired → target lane lost → oscillating search → multiplying road geometry → no progress → calm, signalled single-lane correction. The nine editable first-pass storyboard frames and frame ranges are in [EP005](episodes/EP005_ONE_LANE_AT_A_TIME.md). “ONE LANE AT A TIME” is the episode's plain-language behaviour rule, not a verbatim statutory quotation; the final card qualifies it with `ONLY WHEN SAFE.`
+
 ## EP001/EP002 baseline carrier
 
 The earlier ROAD BRAIN productions use the **25.2-second** five-state carrier:

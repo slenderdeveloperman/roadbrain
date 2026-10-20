@@ -10,7 +10,7 @@ The joke may be complicated. The instruction cannot.
 
 ## Start here
 
-- [`docs/STORYBOARDS.md`](docs/STORYBOARDS.md) — the single editable Paper file for EP001–EP004, EP001 v2, shared assets, and future episodes.
+- [`docs/STORYBOARDS.md`](docs/STORYBOARDS.md) — the single editable Paper file for EP001–EP005, EP001 v2, shared assets, and future episodes.
 - [`docs/NORTH_STAR.md`](docs/NORTH_STAR.md) — what ROAD BRAIN is, what it is not, and the non-negotiable creative rules.
 - [`docs/DECISIONS.md`](docs/DECISIONS.md) — locked, superseded and still-experimental decisions.
 - [`docs/PRODUCTION_SYSTEM.md`](docs/PRODUCTION_SYSTEM.md) — the current Paper → Cavalry → finishing/publishing workflow.
@@ -24,6 +24,7 @@ The joke may be complicated. The instruction cannot.
 - [`docs/episodes/EP002_HIGH_BEAM_DETECTED.md`](docs/episodes/EP002_HIGH_BEAM_DETECTED.md)
 - [`docs/episodes/EP003_SHOULDER_IS_NOT_A_LANE.md`](docs/episodes/EP003_SHOULDER_IS_NOT_A_LANE.md)
 - [`docs/episodes/EP004_PASS_RETURN_LEFT.md`](docs/episodes/EP004_PASS_RETURN_LEFT.md)
+- [`docs/episodes/EP005_ONE_LANE_AT_A_TIME.md`](docs/episodes/EP005_ONE_LANE_AT_A_TIME.md)
 - [`docs/episodes/EP001_V2_TELEPATHY_REQUIRED.md`](docs/episodes/EP001_V2_TELEPATHY_REQUIRED.md)
 
 ## Current locked decisions
@@ -38,7 +39,7 @@ The joke may be complicated. The instruction cannot.
 
 ## Status
 
-ROAD BRAIN is in active prototype production. EP001 establishes the grammar; EP001 v2 is a separate telepathy-based retelling, with its own storyboard and editable Cavalry scene. EP002 and EP003 deliberately break different parts of the same institutional system. EP004's Right Lane Raja storyboard and first silent Cavalry motion preview are complete; its editable scene and render handoff are documented in the episode specification.
+ROAD BRAIN is in active prototype production. EP001 establishes the grammar; EP001 v2 is a separate telepathy-based retelling, with its own storyboard and editable Cavalry scene. EP002 and EP003 deliberately break different parts of the same institutional system. EP004's Right Lane Raja storyboard and first silent Cavalry motion preview are complete. EP005 now has a nine-frame first storyboard pass; motion and render remain open.
 
 ## EP003 storyboard
 
@@ -46,7 +47,11 @@ ROAD BRAIN is in active prototype production. EP001 establishes the grammar; EP0
 
 ## EP004 storyboard
 
-[Open EP004 — PASS. RETURN LEFT.](https://app.paper.design/file/01M4XBCQ0SFYHGKEF9NWC2R334/p-5-0). Nine keyframes develop Right Lane Raja through a completed overtake, indefinite residency, a ceremonial border/crown, a customs queue, and a safe signalled return left. The same file contains all EP001–EP003 storyboards and shared assets: 46 artboards across five pages. See the [storyboard index](docs/STORYBOARDS.md) and [EP004 motion handoff](docs/episodes/EP004_PASS_RETURN_LEFT.md) for the silent Cavalry preview.
+[Open EP004 — PASS. RETURN LEFT.](https://app.paper.design/file/01M4XBCQ0SFYHGKEF9NWC2R334/p-5-0). Nine keyframes develop Right Lane Raja through a completed overtake, indefinite residency, a ceremonial border/crown, a customs queue, and a safe signalled return left. See the [storyboard index](docs/STORYBOARDS.md) and [EP004 motion handoff](docs/episodes/EP004_PASS_RETURN_LEFT.md) for the silent Cavalry preview.
+
+## EP005 storyboard
+
+[Open EP005 — ONE LANE AT A TIME](https://app.paper.design/file/01M4XBCQ0SFYHGKEF9NWC2R334/p-7-0). Nine first-pass keyframes take lane-state confusion from acquisition to search-loop geometry collapse, then reset to a calm signal/check/single-lane correction and a clean `ONLY WHEN SAFE.` rule card. The unified Paper file now contains 65 editable artboards across seven pages. See the [EP005 specification](docs/episodes/EP005_ONE_LANE_AT_A_TIME.md).
 
 ## EP001 v2 storyboard
 

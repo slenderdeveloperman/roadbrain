@@ -94,6 +94,7 @@ EP001 — INDICATE. THEN MOVE.          geometry failure
 EP002 — HIGH BEAM DETECTED            vision failure
 EP003 — THE SHOULDER IS NOT A LANE    world-model failure
 EP004 — PASS. RETURN LEFT.            Right Lane Raja / territorial bureaucracy
+EP005 — ONE LANE AT A TIME            geometry search / lane-state failure
 ```
 
-EP004 now uses the season plan's Right Lane Raja topic, superseding the initial slate's tentative `KEEP LEFT.` placement. Its nine [storyboard frames](episodes/EP004_PASS_RETURN_LEFT.md) are complete in the [unified Paper file](STORYBOARDS.md); motion/rendering remain pending. The numbered initial slate above is historical, not the current production numbering.
+EP004 uses the season plan's Right Lane Raja topic, superseding the initial slate's tentative `KEEP LEFT.` placement. EP005 develops the `ONE LANE AT A TIME` concept: the target lane is acquired, lost, searched for again, and the road geometry multiplies before a signal/check/one-lane correction. Its nine first-pass storyboard frames are in the [unified Paper file](STORYBOARDS.md). The numbered initial slate above is historical, not the current production numbering.
