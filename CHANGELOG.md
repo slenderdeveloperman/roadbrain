@@ -2,6 +2,12 @@
 
 ## 2026-10-20
 
+### EP006 alternate — wait for every approach to clear
+
+- Added north-side and west-side traffic-clearance hold beats to the separate south-to-east alternate; the lead stays behind the line during both.
+- Kept the east-clear and all-clear hold beats before release, so the car turns only after all three approaches and the east exit are open.
+- Updated the Paper inventory and EP006 storyboard documentation; the twelve canonical boards remain unchanged.
+
 ### EP006 simplified alternate — south to east
 
 - Added a separate seven-frame storyboard row beneath the original EP006 sequence on the same Paper page; the twelve existing boards were left unchanged.
