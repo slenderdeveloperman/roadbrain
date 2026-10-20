@@ -1,12 +1,12 @@
 # ROAD BRAIN EP006 — UNMANNED JUNCTIONS
 
-**Concept:** A driver reaches an uncontrolled, unsignalized four-way road junction. With no traffic light or officer to assign turns, every approach behaves as if it can go first. The system turns that hesitation into a four-way prediction deadlock. A calm reset shows the driver slowing, checking traffic from the right, yielding where required, and entering only when safe. **Status:** nine editable Paper keyframes in the unified storyboard file; motion and render remain open. **Format target:** 1080 × 1920, 30 fps, 25.2 seconds / 756 frames.
+**Concept:** A driver reaches an uncontrolled, unsignalized four-way road junction. Cars, auto-rickshaws and scooters approach from all four sides; everybody tries to rush through the same gap, occupies the middle, and leaves every approach blocked. The machine turns that rush into a four-way prediction deadlock. A calm reset shows the driver slowing, checking traffic from the right, yielding where required, and entering only when safe. **Status:** nine editable Paper keyframes in the unified storyboard file; motion and render remain open. **Format target:** 1080 × 1920, 30 fps, 25.2 seconds / 756 frames.
 
 [Open EP006 in the unified Paper storyboard](https://app.paper.design/file/01M4XBCQ0SFYHGKEF9NWC2R334/p-8-0).
 
 ## Story
 
-Hook: **NO SIGNAL. NO REFEREE.** Four approaches reach one uncontrolled junction. Drivers look for an authority that is not there, then enter together. The machine tries to assign four first places and jams its own model: `FOUR INTENTIONS. ZERO COORDINATION.` / `INTERSECTION: ZERO FLOW.` No collision is shown.
+Hook: **NO SIGNAL. NO REFEREE.** Four approaches reach one uncontrolled junction. Cars, autos and scooters push in at once. Drivers look for an authority that is not there, claim the same gap, then block one another in the middle. The machine tries to assign four first places and jams its own model: `CARS. AUTOS. SCOOTERS. NO WAY THROUGH.` / `FOUR SIDES BLOCKED. NOBODY MOVES.` No collision is shown.
 
 The teaching example is deliberately scoped to an uncontrolled junction with no mandatory traffic signs and roads of equal priority. A vehicle approaching from the driver's right has right of way in this scenario. The correction slows before the junction, yields to that approach, then proceeds only when the way is clear. Traffic control, mandatory signs and major-road priority take precedence where applicable.
 
@@ -20,17 +20,17 @@ Frame ranges are inclusive. The nominal 1.55-second boundary rounds to frame 47 
 
 | Board | Time | Frames | Picture / copy |
 | --- | --- | ---: | --- |
-| 00 Visual interrupt | 0.00–0.20 | 0–5 | Start on four vehicles converging into the same junction space. `FOUR APPROACHES. ONE BOX.` |
+| 00 Visual interrupt | 0.00–0.20 | 0–5 | Start on detailed shared hatchback assets arriving from all four sides and converging toward the same box. `FOUR APPROACHES. ONE BOX.` |
 | 01 Hook | 0.20–1.55 | 6–46 | `NO SIGNAL. NO REFEREE.` / `WHO GOES FIRST?` Establish the absence of traffic lights and an officer. |
 | 02 Condition | 1.55–4.90 | 47–146 | `FOUR APPROACHES` / `UNCONTROLLED / EQUAL-CLASS`. Show an unsignaled, equal-priority road junction with no mandatory signs. |
 | 03 Approach | 4.90–9.80 | 147–293 | `SLOW BEFORE THE JUNCTION` / `SPEED ↓ / SCAN ALL APPROACHES`. Lead car slows before the junction; other road users remain visible. |
 | 04 Right of way | 9.80–12.20 | 294–365 | `TRAFFIC FROM YOUR RIGHT` / `RIGHT OF WAY: RIGHT`. Amber highlights the vehicle approaching from the driver's right. Keep the equal-class, uncontrolled example explicit. |
-| 05 Gridlock | 12.20–14.70 | 366–440 | `EVERYONE CLAIMS FIRST` / `FOUR INTENTIONS. ZERO COORDINATION.` Conflicting ghost routes crowd the center without depicting impact. |
-| 06 Collapse | 14.70–19.50 | 441–584 | `INTERSECTION: ZERO FLOW` / `BOX OCCUPIED / PROGRESS: NONE`. The junction blocks and the system freezes. |
+| 05 Gridlock | 12.20–14.70 | 366–440 | Detailed hatchbacks, an auto-rickshaw and a scooter rush in from the four approaches. `EVERYONE CLAIMS FIRST` / `CARS. AUTOS. SCOOTERS. NO WAY THROUGH.` All routes crowd the same gap; no impact is shown. |
+| 06 Collapse | 14.70–19.50 | 441–584 | Cars, an auto-rickshaw and a scooter are locked in the middle. `INTERSECTION: ZERO FLOW` / `FOUR SIDES BLOCKED / NOBODY MOVES.` Every exit is blocked; traffic cannot clear the junction. |
 | 07 Correction | 19.50–23.60 | 585–707 | Hard reset. Driver slows and yields to the right-side approach, then enters only after the junction clears. `SLOW. GIVE WAY. CLEAR IT.` |
 | 08 Rule | 23.60–25.20 | 708–755 | Pristine card: `SLOW DOWN.` / `CHECK RIGHT. / ENTER ONLY WHEN SAFE.` Add the traffic-control, mandatory-sign and major-road-priority qualifier, then `DRIVE PREDICTABLY.` |
 
-The editable Paper page has nine 1080 × 1920 boards. The junction uses left-side-traffic road geometry. The right-of-way example avoids signs or road markings that would prescribe a different priority. Conflict effects remain isolated to the violation; the correction and rule card are clean.
+The editable Paper page has nine 1080 × 1920 boards. All four approaches now use the detailed hatchback vector from the shared asset page. Gridlock and collapse add a top-down auto-rickshaw and scooter to make the rush-hour mix recognizable in India. The junction uses left-side-traffic road geometry. The right-of-way example avoids signs or road markings that would prescribe a different priority. Conflict effects remain isolated to the violation; the correction and rule card are clean.
 
 ## Rule basis and scope
 
