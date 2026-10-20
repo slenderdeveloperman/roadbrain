@@ -39,7 +39,7 @@ The joke may be complicated. The instruction cannot.
 
 ## Status
 
-ROAD BRAIN is in active prototype production. EP001 establishes the grammar; EP001 v2 is a separate telepathy-based retelling, with its own storyboard and editable Cavalry scene. EP002 and EP003 deliberately break different parts of the same institutional system. EP004's Right Lane Raja storyboard and first silent Cavalry motion preview are complete. EP005 now has a nine-frame first storyboard pass; motion and render remain open.
+ROAD BRAIN is in active prototype production. EP001 establishes the grammar; EP001 v2 is a separate telepathy-based retelling, with its own storyboard and editable Cavalry scene. EP002 and EP003 deliberately break different parts of the same institutional system. EP004's Right Lane Raja storyboard and first silent Cavalry motion preview are complete. EP005's nine-frame storyboard now uses an Indian two-to-one road narrowing and a safe, orderly merge; motion and render remain open.
 
 ## EP003 storyboard
 
@@ -51,7 +51,7 @@ ROAD BRAIN is in active prototype production. EP001 establishes the grammar; EP0
 
 ## EP005 storyboard
 
-[Open EP005 — ONE LANE AT A TIME](https://app.paper.design/file/01M4XBCQ0SFYHGKEF9NWC2R334/p-7-0). Nine first-pass keyframes take lane-state confusion from acquisition to search-loop geometry collapse, then reset to a calm signal/check/single-lane correction and a clean `ONLY WHEN SAFE.` rule card. The unified Paper file now contains 65 editable artboards across seven pages. See the [EP005 specification](docs/episodes/EP005_ONE_LANE_AT_A_TIME.md).
+[Open EP005 — ONE LANE AT A TIME](https://app.paper.design/file/01M4XBCQ0SFYHGKEF9NWC2R334/p-7-0). Nine keyframes show two lanes narrowing to one, a side-by-side bottleneck, and a reset to `SIGNAL. CHECK. TAKE TURNS.` The final card says `MERGE IN TURN.` and qualifies it with `ONLY WHEN SAFE.` The unified Paper file now contains 65 editable artboards across seven pages. See the [EP005 specification](docs/episodes/EP005_ONE_LANE_AT_A_TIME.md).
 
 ## EP001 v2 storyboard
 

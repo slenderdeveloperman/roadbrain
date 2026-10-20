@@ -4,10 +4,11 @@
 
 ### EP005 storyboard — One Lane at a Time
 
-- Added a new EP005 page to the unified Paper storyboard with nine editable 1080 × 1920 keyframes, from lane acquisition/loss through multiplying road geometry to a calm single-lane correction.
-- Set first-pass copy and hook-first 25.2-second timing; the final card says `ONE LANE AT A TIME.` and qualifies it with `ONLY WHEN SAFE.`
+- Updated the nine editable 1080 × 1920 Paper keyframes to show an Indian left-side-traffic road narrowing from two lanes to one, with auto-rickshaw and two-wheeler silhouettes.
+- Replaced lane-search copy with the two-to-one bottleneck story: `TWO LANES IN. ONE LANE OUT.`, `MERGE WINDOW: CLOSED BY EGO`, and a `SIGNAL. CHECK. TAKE TURNS.` correction.
+- Kept the 25.2-second hook-first timing; the final card says `MERGE IN TURN.` and qualifies it with `ONLY WHEN SAFE.`
 - Checked the rule basis against the Ministry of Road Transport and Highways' Motor Vehicles (Driving) Regulations, 2017. Documented that the title is plain-language guidance rather than a verbatim statutory quote.
-- Updated the episode backlog, grammar, README and unified storyboard index. Motion and render are not part of this storyboard pass.
+- Updated the episode specification, backlog, grammar, README and unified storyboard index. Motion and render are not part of this storyboard pass.
 
 ## 2026-10-14
 

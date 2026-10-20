@@ -29,7 +29,7 @@ EP004 applies the same hook-first cut boundaries as EP003 to a different causal 
 
 ## EP005: One Lane at a Time
 
-EP005 keeps the 25.2-second / 30 fps hook-first carrier and breaks lane-state tracking: target lane acquired → target lane lost → oscillating search → multiplying road geometry → no progress → calm, signalled single-lane correction. The nine editable first-pass storyboard frames and frame ranges are in [EP005](episodes/EP005_ONE_LANE_AT_A_TIME.md). “ONE LANE AT A TIME” is the episode's plain-language behaviour rule, not a verbatim statutory quotation; the final card qualifies it with `ONLY WHEN SAFE.`
+EP005 keeps the 25.2-second / 30 fps hook-first carrier and localizes the situation to a marked two-lane road narrowing to one: the pinch appears → drivers crowd it side by side → the gap search and system diagnosis escalate → traffic resets to a signalled, checked, turn-by-turn merge when safe. The nine editable storyboard frames and frame ranges are in [EP005](episodes/EP005_ONE_LANE_AT_A_TIME.md). `MERGE IN TURN` is plain-language guidance, not a verbatim statutory quotation; the final card says `ONLY WHEN SAFE`, and drivers follow the road's signs and markings.
 
 ## EP001/EP002 baseline carrier
 

@@ -35,19 +35,22 @@ PASS. RETURN LEFT.
 ```
 
 ### One Lane at a Time
-A vehicle keeps drifting across multiple lanes after the target lane is already acquired.
+A two-lane Indian road narrows to one; drivers crowd the pinch point instead of signalling, checking for a safe gap, and merging in turn.
 
 Possible escalation:
 ```text
-TARGET LANE ACQUIRED
-TARGET LANE LOST
-SEARCHING...
-VEHICLE HAS DECLINED GEOMETRY
+ROAD NARROWS
+2 LANES → 1
+GAP: LEFT? / GAP: RIGHT?
+ROAD: 2 → 1
+DRIVERS: STILL 2
+MERGE WINDOW: CLOSED BY EGO
 ```
 
 Correction:
 ```text
-ONE LANE AT A TIME.
+SIGNAL. CHECK. TAKE TURNS.
+MERGE IN TURN. ONLY WHEN SAFE.
 ```
 
 ### Zebra Crossing = Human Lane
@@ -94,7 +97,7 @@ EP001 — INDICATE. THEN MOVE.          geometry failure
 EP002 — HIGH BEAM DETECTED            vision failure
 EP003 — THE SHOULDER IS NOT A LANE    world-model failure
 EP004 — PASS. RETURN LEFT.            Right Lane Raja / territorial bureaucracy
-EP005 — ONE LANE AT A TIME            geometry search / lane-state failure
+EP005 — ONE LANE AT A TIME            two-to-one road narrowing / merge failure
 ```
 
-EP004 uses the season plan's Right Lane Raja topic, superseding the initial slate's tentative `KEEP LEFT.` placement. EP005 develops the `ONE LANE AT A TIME` concept: the target lane is acquired, lost, searched for again, and the road geometry multiplies before a signal/check/one-lane correction. Its nine first-pass storyboard frames are in the [unified Paper file](STORYBOARDS.md). The numbered initial slate above is historical, not the current production numbering.
+EP004 uses the season plan's Right Lane Raja topic, superseding the initial slate's tentative `KEEP LEFT.` placement. EP005 develops the `ONE LANE AT A TIME` concept through a marked two-lane road narrowing to one, with an orderly, signalled, safe merge as the correction. Its nine storyboard frames are in the [unified Paper file](STORYBOARDS.md). The numbered initial slate above is historical, not the current production numbering.
