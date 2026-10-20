@@ -1,8 +1,8 @@
 # ROAD BRAIN EP006 — UNMANNED JUNCTIONS
 
-**Concept:** A driver reaches an uncontrolled, unsignalized four-way road junction. The hook asks, **“HOW DO YOU CROSS THIS JUNCTION SAFELY?”** Cars, auto-rickshaws and scooters approach from all four sides; everybody tries to rush through the same gap, occupies the middle, and leaves every approach blocked. The episode then slows the scene down: scan each approach, check whether there is room in the exit lane beyond the junction, and wait behind the line if the vehicle cannot clear it. The flow moves from the mixed-traffic hook to the uncontrolled-junction setup, then teaches slow-and-scan and exit-space checks before showing the deadlock those checks prevent. In the correction, the lead holds through blocked, clearing and clear exit states, yields to traffic from the right, then enters only when both checks are clear. **Status:** twelve canonical editable Paper keyframes plus a separate nine-frame simplified alternate in the unified storyboard file; motion and render remain open. **Format target:** 1080 × 1920, 30 fps, 25.2 seconds / 756 frames for the canonical sequence.
+**Concept:** A driver reaches an uncontrolled, unsignalized four-way road junction. The hook asks, **“HOW DO YOU CROSS THIS JUNCTION SAFELY?”** Cars, auto-rickshaws and scooters approach from all four sides; everybody tries to rush through the same gap, occupies the middle, and leaves every approach blocked. The episode then slows the scene down: scan each approach, check whether there is room in the exit lane beyond the junction, and wait behind the line if the vehicle cannot clear it. The flow moves from the mixed-traffic hook to the uncontrolled-junction setup, then teaches slow-and-scan and exit-space checks before showing the deadlock those checks prevent. In the correction, the lead holds through blocked, clearing and clear exit states, yields to traffic from the right, then enters only when both checks are clear. **Status:** twelve canonical editable Paper keyframes, a separate nine-frame simplified alternate, and a ten-frame Right Lane Raja POV alternate in the unified storyboard file; motion and render remain open. **Format target:** 1080 × 1920, 30 fps, 25.2 seconds / 756 frames for the canonical sequence.
 
-[Open EP006 in the unified Paper storyboard](https://app.paper.design/file/01M4XBCQ0SFYHGKEF9NWC2R334/p-8-0). The simplified alternate is on the same page in a separate row beneath the canonical boards.
+[Open EP006 in the unified Paper storyboard](https://app.paper.design/file/01M4XBCQ0SFYHGKEF9NWC2R334/p-8-0). The simplified and Raja POV alternatives occupy separate rows below the canonical boards.
 
 ## Story
 
@@ -52,6 +52,23 @@ This is a separate exploratory set on the same Paper page. It does not replace o
 | 06 Wait | `WEST TRAFFIC MOVES.` / The lead keeps holding until the west-side vehicle clears. |
 | 07 Check | `ALL SIDES CLEAR.` / The east exit is open; the lead is still held. |
 | 08 Release | `NOW TURN EAST.` / The lead moves after all three approaches are clear, then clears the junction. |
+
+## Right Lane Raja POV alternate
+
+This ten-frame retelling keeps the same south-to-east junction, but stages it from Raja's dash view. Raja's existing territorial character supplies the bad first move; his dash view makes the resulting gridlock personally costly. The correction stays literal and calm. A separate hold beat makes the sequence explicit: Raja waits while eastbound traffic clears, yields to the vehicle approaching from his right in the scoped example, then remains behind the line while north and west traffic clear. Only then does he turn east and clear the junction. This alternate is on the same Paper page in its own third row; the canonical sequence and simpler alternate remain intact.
+
+| Board | Picture / copy |
+| --- | --- |
+| 00 Hook | `HOW DO YOU CROSS THIS?` / Raja's dash view: South → East, with traffic closing from three sides. |
+| 01 Gap | `RAJA SPOTS A GAP.` / The east exit is still full. |
+| 02 Bad move | `JUST THE NOSE, RAJA.` / He rolls beyond the line before there is room to clear. |
+| 03 Consequence | `RAJA ENTERS. EVERYONE STOPS.` / Eastbound traffic is blocked; cross-traffic fills the space. |
+| 04 Collapse | `KINGDOM: JAMMED.` / His territorial joke becomes a deadlocked junction. |
+| 05 Correction | `REWIND. HOLD AT THE LINE.` / Raja remains outside while the exit is blocked. |
+| 06 Exit clears | `THEY MOVE. RAJA HOLDS.` / Eastbound vehicles clear while Raja waits. |
+| 07 Yield right | `EXIT OPEN. CHECK RIGHT.` / Right-side traffic passes; Raja keeps holding. |
+| 08 North + west clear | `NORTH. WEST.` / Those streams clear while Raja stays behind the line. |
+| 09 Release | `NOW TURN EAST.` / With the exit and conflicting traffic clear, Raja clears the junction. |
 
 ## Rule basis and scope
 
