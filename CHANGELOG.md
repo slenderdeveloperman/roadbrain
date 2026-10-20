@@ -2,6 +2,13 @@
 
 ## 2026-10-20
 
+### EP006 simplified alternate — south to east
+
+- Added a separate seven-frame storyboard row beneath the original EP006 sequence on the same Paper page; the twelve existing boards were left unchanged.
+- Simplified the lesson to one lead car, one vehicle from each other approach, two clear wrong moves, holding while the east exit clears, then turning through without stopping.
+- Reviewed the full sequence in Paper and corrected the route overlay and final clearance label for legibility.
+- Updated the storyboard inventory, EP006 specification, grammar and backlog.
+
 ### EP006 storyboard — Unmanned Junctions
 
 - Added nine editable EP006 keyframes to the unified ROAD BRAIN Paper file for an uncontrolled, unsignaled road junction.

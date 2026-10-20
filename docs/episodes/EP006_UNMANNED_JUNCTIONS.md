@@ -2,7 +2,7 @@
 
 **Concept:** A driver reaches an uncontrolled, unsignalized four-way road junction. The hook asks, **“HOW DO YOU CROSS THIS JUNCTION SAFELY?”** Cars, auto-rickshaws and scooters approach from all four sides; everybody tries to rush through the same gap, occupies the middle, and leaves every approach blocked. The episode then slows the scene down: scan each approach, check whether there is room in the exit lane beyond the junction, and wait behind the line if the vehicle cannot clear it. The flow moves from the mixed-traffic hook to the uncontrolled-junction setup, then teaches slow-and-scan and exit-space checks before showing the deadlock those checks prevent. In the correction, the lead holds through blocked, clearing and clear exit states, yields to traffic from the right, then enters only when both checks are clear. **Status:** twelve editable Paper keyframes in the unified storyboard file; motion and render remain open. **Format target:** 1080 × 1920, 30 fps, 25.2 seconds / 756 frames.
 
-[Open EP006 in the unified Paper storyboard](https://app.paper.design/file/01M4XBCQ0SFYHGKEF9NWC2R334/p-8-0).
+[Open EP006 in the unified Paper storyboard](https://app.paper.design/file/01M4XBCQ0SFYHGKEF9NWC2R334/p-8-0). The simplified alternate is on the same page in a separate row beneath the canonical boards.
 
 ## Story
 
@@ -35,7 +35,21 @@ Frame ranges are inclusive. The nominal 1.55-second boundary rounds to frame 47 
 | 10 Safe entry | 21.70–23.60 | 651–707 | `BOTH CHECKS CLEAR.` / `MOVE THROUGH. DO NOT STOP.` Show the exit open and right-side conflict gone before the lead moves. |
 | 11 Rule | 23.60–25.20 | 708–755 | `WAIT FOR SPACE.` / `EXIT CLEAR. CHECK RIGHT. THEN GO.` Preserve the qualifier to follow signs, signals and road priority. |
 
-The editable Paper page has twelve 1080 × 1920 boards. Each frame keeps an auto-rickshaw and scooter visible. The blockage uses detailed top-down hatchbacks with rounded bonnet and rear, windshield and rear glass, roof panel, mirrors, wheel arches, lights and dark window trim. The cars visibly nose into the same junction; do not substitute abstract vehicle blocks or a central X. Keep the auto-rickshaw's three-wheel layout and cabin, and the scooter's wheels, handlebars, fairing and seat distinct. The junction uses left-side-traffic road geometry. Use red / amber / green only for the exit blocked / clearing / clear progression. Keep the yield-right cue amber and separate. In the release frame, remove conflicting cars so the lead's path is visibly open; retain the auto and scooter outside its path. The example avoids signs or markings that would prescribe another priority. Conflict effects remain isolated to the violation; the correction and final rule stay calm.
+The editable Paper page has twelve canonical 1080 × 1920 boards. Each canonical frame keeps an auto-rickshaw and scooter visible. The blockage uses detailed top-down hatchbacks with rounded bonnet and rear, windshield and rear glass, roof panel, mirrors, wheel arches, lights and dark window trim. The cars visibly nose into the same junction; do not substitute abstract vehicle blocks or a central X. Keep the auto-rickshaw's three-wheel layout and cabin, and the scooter's wheels, handlebars, fairing and seat distinct. The junction uses left-side-traffic road geometry. Use red / amber / green only for the exit blocked / clearing / clear progression. Keep the yield-right cue amber and separate. In the release frame, remove conflicting cars so the lead's path is visibly open; retain the auto and scooter outside its path. The example avoids signs or markings that would prescribe another priority. Conflict effects remain isolated to the violation; the correction and final rule stay calm.
+
+## Simplified alternate storyboard
+
+This is a separate exploratory set on the same Paper page. It does not replace or edit the twelve canonical boards. The seven 1080 × 1920 frames follow one car approaching from the south and turning east, with one vehicle from each of the other three approaches to keep the diagram spare.
+
+| Board | Picture / copy |
+| --- | --- |
+| 00 Hook | `HOW DO YOU CROSS?` / South to East, with traffic from the other three sides. |
+| 01 Wrong move | `DON'T RUSH IN.` / Show all approaches claiming the gap and blocking the center. |
+| 02 Wrong move | `DON'T ENTER A FULL EXIT.` / The east exit is occupied; the southbound lead remains outside. |
+| 03 Correction | `HOLD BEFORE THE JUNCTION.` / Keep the whole car behind the line. |
+| 04 Wait | `WAIT WHILE EAST CLEARS.` / Eastbound queue traffic moves out; the lead keeps holding. |
+| 05 Check | `EAST EXIT CLEAR.` / Show open exit space while the lead is still held. |
+| 06 Release | `TURN EAST. KEEP MOVING.` / The lead turns only after the path is open and clears the junction. |
 
 ## Rule basis and scope
 
