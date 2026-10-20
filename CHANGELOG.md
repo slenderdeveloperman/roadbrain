@@ -32,6 +32,14 @@
 - Expanded EP006 to thirteen editable boards and kept the 25.2-second / 756-frame runtime unchanged; autos and scooters remain in the new frame.
 - Reviewed the clear-exit hold, right-yield hold, release and rule card in Paper, then synchronized the specification and episode documentation.
 
+### EP006 sequence review — reduce repetition and clarify release
+
+- Removed the duplicate uncontrolled-junction condition board and reflowed the sequence to twelve boards without changing the 25.2-second / 756-frame runtime.
+- Reordered the explanation to establish the scene, slow and scan, check the exit, show the deadlock, then correct it through blocked / clearing / clear / yield-right / release states.
+- Tightened captions, removed a redundant exit-clear callout, and kept each frame centered on one decision.
+- Corrected the safe-entry artboard: the exit and right-side conflict are now visibly clear before the lead enters; autos and scooter remain outside its path.
+- Reviewed the full sequence in Paper screenshots and updated the episode spec, index, grammar and backlog.
+
 ### EP005 storyboard — One Lane at a Time
 
 - Updated the nine editable 1080 × 1920 Paper keyframes to show an Indian left-side-traffic road narrowing from two lanes to one, with auto-rickshaw and two-wheeler silhouettes.

@@ -2,7 +2,7 @@
 
 [Open the canonical Paper file](https://app.paper.design/file/01M4XBCQ0SFYHGKEF9NWC2R334).
 
-All future episode storyboard work belongs in this file, on a separate episode page. Updated from live Paper content on 2026-10-20: **78 artboards across eight pages**.
+All future episode storyboard work belongs in this file, on a separate episode page. Updated from live Paper content on 2026-10-20: **77 artboards across eight pages**.
 
 | Page | Content | Artboards |
 | --- | --- | ---: |
@@ -13,7 +13,7 @@ All future episode storyboard work belongs in this file, on a separate episode p
 | [04 / EP004 — PASS. RETURN LEFT.](https://app.paper.design/file/01M4XBCQ0SFYHGKEF9NWC2R334/p-5-0) | Nine Right Lane Raja keyframes | 9 |
 | [05 / EP005 — ONE LANE AT A TIME](https://app.paper.design/file/01M4XBCQ0SFYHGKEF9NWC2R334/p-7-0) | Nine keyframes: Indian two-lane road narrowing to one, bottleneck, and safe turn-by-turn merge | 9 |
 | [06 / EP001 v2 — TELEPATHY REQUIRED](https://app.paper.design/file/01M4XBCQ0SFYHGKEF9NWC2R334/p-6-0) | Ten hook-first frames: inferred intent, false success, human-intent reversal, collapse and indicator correction | 10 |
-| [07 / EP006 — UNMANNED JUNCTIONS](https://app.paper.design/file/01M4XBCQ0SFYHGKEF9NWC2R334/p-8-0) | Thirteen hook-first frames: mixed Indian traffic, four-way deadlock, hold as exit traffic moves, hold after it clears, yield right while holding, then safe entry | 13 |
+| [07 / EP006 — UNMANNED JUNCTIONS](https://app.paper.design/file/01M4XBCQ0SFYHGKEF9NWC2R334/p-8-0) | Twelve hook-first frames: mixed Indian traffic, slow-and-scan, exit-space check, four-way deadlock, staged exit-clear hold, yield right, then safe entry | 12 |
 
 ## Consolidation and provenance
 
