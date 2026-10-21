@@ -4,8 +4,8 @@ This file records important decisions that changed during development so old cha
 
 ## Locked
 
-### ROAD BRAIN is an institution, not a meme page
-The brand frame is **a glitched institution making transmissions**. Memetic energy lives inside the transmission failures, not in random account-level styling.
+### ROAD BRAIN is an institution, not a generic meme page
+The brand frame is **a sentient road-safety institution**. Internet characters and memetic energy enter the institution, but ROAD BRAIN's system voice, diagrams and recurring archetypes remain the durable identity.
 
 ### Master thesis
 ```text
@@ -17,27 +17,59 @@ DRIVE PREDICTABLY.
 The joke may be complicated. The instruction cannot.
 ```
 
-### Current timing grammar
+### Default format: swipe comic / carousel
+The primary ROAD BRAIN carrier is now static-first.
+
+```text
+Slide 1 — clean / hook
+Slide 2 — violation
+Slide 3 — diagnosis
+Slide 4 — absurd consequence
+Slide 5 — calm / correct
+Slide 6 — optional all-in-one shareable
+Slide 7 — optional pristine rule card
+```
+
+The viewer's swipe replaces the fixed video timeline.
+
+### Character casting
+Currently viral reel characters, internet personas, poses and expressions may be used as reference energy or temporary casting, but the durable role is a ROAD BRAIN archetype such as `Right Lane Raja` or `Shoulder Entrepreneur`.
+
+Prefer transformed/redrawn/parodic compositions rather than unmodified proprietary character artwork.
+
+### Production roles
+- static design/Paper = source of truth for assets, storyboards and final carousel slides;
+- motion tools = optional adaptation layer;
+- Instagram carousel = default publishing surface.
+
+### Typography
+Institutional grotesk + utilitarian mono. No dedicated glitch font.
+
+### Visual contrast
+Clean infrastructure × contaminated human behaviour.
+
+### Correction rule
+Surrealism belongs to the violation. The correction stays boring, pristine and factual.
+
+## Superseded / deprecated
+
+### Fixed 25.2-second carrier as default episode grammar
+Previous system:
+
 ```text
 25.2 seconds
 clean → pressured → broken → collapsing → calm/correct
 ```
 
-### Recurring audio
-Reuse the EP001 carrier track across current episodes. Visuals adapt to the audio grammar, not vice versa.
+Superseded by the five-swipe static grammar. The conceptual escalation survives; the fixed duration does not.
 
-### Current production roles
-- Paper = assets / tokens / storyboard / static source of truth
-- Cavalry = motion source of truth
-- finishing = simplest tool that reliably combines the finished picture and audio
+### Recurring master audio as mandatory brand carrier
+The EP001 carrier track remains useful for motion adaptations but is no longer required for every episode.
 
-### Typography
-Institutional grotesk + utilitarian mono. No dedicated glitch font.
+ROAD BRAIN must be fully understandable and recognisable with no sound.
 
-### Logo
-Simple stacked `ROAD / BRAIN` direction. Circular/compact treatment is valid. Reduce embellishment and keep glitch restrained.
-
-## Superseded / deprecated
+### Cavalry as required production stage
+Cavalry remains valid for motion adaptations, but is not required to publish the default ROAD BRAIN episode.
 
 ### Figma as primary ROAD BRAIN source of truth
 Early plan:
@@ -45,47 +77,48 @@ Early plan:
 Figma → Paper → Cavalry → Resolve
 ```
 
-Superseded because Paper covered the static asset/storyboard job well enough for this project. Figma remains optional for specialist vector/component work, not part of the default pipeline.
+Superseded because the project benefits from a simpler static-first workflow. Specialist vector/component work may happen wherever it is fastest.
 
 ### Paper as the motion tool
-Tested through Paper MCP. Animation/transition properties were not reliably authorable; no agent-addressable keyframe/timeline system was exposed.
-
-Decision:
-```text
-Paper → Cavalry
-```
+Animation/transition properties were not reliably authorable through the tested Paper MCP. This no longer matters to the default pipeline because static composition is now sufficient.
 
 ### Resolve as mandatory finishing environment
-Resolve/Fairlight proved heavier than necessary for short ROAD BRAIN assembly. Keep it optional for precision finishing, not a requirement.
+Resolve/Fairlight is optional for motion adaptations, not part of normal carousel production.
 
 ### Five increasingly corrupted copies as the only narrative
-Early loop concept focused mainly on repeated corruption. The stronger structure became:
-- incorrect behaviour repeats/escalates;
-- final state demonstrates correct behaviour cleanly.
+The stronger structure is:
+- recognizable situation;
+- offence;
+- institutional diagnosis;
+- absurd consequence;
+- calm correction.
 
 ### Generic glitch aesthetic
-Rejected. Prefer temporal and structural system failures over permanent RGB/VHS treatment.
+Rejected. Prefer semantic and structural system failures over permanent RGB/VHS treatment.
 
 ### Literal brain symbol
 Rejected as primary identity. The name already supplies the metaphor.
 
 ### Trending audio as default growth tactic
-Not preferred. The recurring original carrier is part of ROAD BRAIN’s identity. Platform discovery tactics should not erase the transmission grammar.
+No longer central to the default static format. Audio strategy only matters for motion adaptations.
 
 ## Experimental / not yet locked
 
 - Exact final wordmark typeface.
 - Whether the circular stacked wordmark becomes the permanent avatar.
-- Exact ratio of episode-specific diegetic SFX to carrier audio.
-- Multilingual ROAD BRAIN transmissions.
+- Exact guest-cast sourcing / transformation conventions.
+- Multilingual ROAD BRAIN comics.
+- Whether every carousel should include a shareable composite slide.
+- Whether successful comics should routinely be adapted into Reels.
 - How much serious consequence material should interrupt comedy.
-- Whether every future episode must remain exactly 25.2 seconds once the initial grammar is established.
+- Whether recurring guest characters emerge organically into a semi-permanent cast.
 
 ## Decision rule going forward
 
 When choosing between two directions, prefer the one that:
 1. makes the road instruction clearer;
-2. strengthens recurring series grammar;
-3. creates reusable assets or motion behaviour;
-4. gives the episode a distinct subsystem failure;
-5. reduces production complexity without flattening the idea.
+2. strengthens recurring ROAD BRAIN grammar;
+3. makes the piece more sendable/shareable;
+4. creates reusable archetypes or assets;
+5. reduces production complexity without flattening the idea;
+6. works without motion or sound before adding either.
