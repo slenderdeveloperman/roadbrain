@@ -1,12 +1,16 @@
 # ROAD BRAIN — Audio Grammar
 
-## North star
+## Current role
 
-The recurring music is not background. It is the **carrier signal** for ROAD BRAIN transmissions.
+Audio is no longer part of ROAD BRAIN's default publishing grammar.
 
-Reuse the same master audio across current episodes so viewers begin recognizing a transmission before they understand the visual joke.
+The default episode is a static swipe comic and must work completely without sound.
 
-## Fixed 25.2-second structure
+This file is retained for **optional motion/Reel adaptations** of comics that have already proven themselves or genuinely benefit from animation.
+
+## Legacy carrier
+
+EP001 established a recurring 25.2-second carrier:
 
 ```text
 0.0–4.9    CLEAN
@@ -16,7 +20,7 @@ Reuse the same master audio across current episodes so viewers begin recognizing
 19.5–25.2  CALM / CORRECT
 ```
 
-The current track’s conceptual arc:
+Conceptual arc:
 
 ```text
 clean
@@ -26,14 +30,16 @@ clean
 → mundane restoration
 ```
 
-## Sonic identity
+This remains a useful motion template, but it is **not a required duration or audio bed** for future episodes.
 
-The successful direction combines:
+## Sonic identity for adaptations
+
+If a comic becomes a Reel, prefer:
 - industrial/public-information-system timbres;
 - dry mechanical percussion;
-- simple electronic motif;
+- simple electronic motifs;
 - machine-room texture;
-- harsh-trance-style **energy curve** without polished club aesthetics;
+- harsh-trance-style energy curves without glossy club aesthetics;
 - abrupt reset into a clean final state.
 
 Useful phrase:
@@ -46,63 +52,55 @@ Avoid:
 - sentimental resolution;
 - giant festival drops;
 - lush pads;
-- episode-specific rescoring unless absolutely necessary.
+- audio complexity that is carrying a joke the images cannot carry themselves.
 
-## Why the same track matters
+## Adaptation rule
 
-The fixed carrier does three jobs:
-1. brand recognition;
-2. production constraint;
-3. structural timing template for Cavalry.
+A static comic should never be weakened simply to fit the old carrier.
 
-Every new episode asks:
+Instead ask:
 
-> What does this road behaviour look like at each of the five existing audio states?
+> What does this already-working swipe sequence sound like when motion is added?
 
-The music should not bend around every episode. The episode should bend around the carrier.
+Motion follows the comic, not the other way around.
 
 ## Diegetic SFX
 
-Episode-specific SFX may sit over the recurring carrier, but should be tiny and functional.
-
-Examples:
+Useful examples:
 - indicator click;
 - headlamp relay click;
 - detection beep;
-- ambulance siren;
-- one system chirp;
-- a short reset/dropout.
+- horn;
+- siren;
+- system chirp;
+- short reset/dropout.
 
-Avoid adding a bespoke choir, riser, impact bed or new musical layer just because a visual event is dramatic.
+Keep SFX functional and dry.
 
 ## Final-state rule
 
-The final correct section must **not** sound triumphant.
+The final correct section must not sound triumphant.
 
 It should feel:
 - dry;
 - stable;
 - uneventful;
-- slightly warmer if useful;
 - mechanically correct.
 
-The payoff is:
+The payoff remains:
 
 > **nothing dramatic happens because the driver behaved normally.**
 
-## Original audio vs trending audio
+## Trending audio
 
-Current strategic preference: preserve ROAD BRAIN’s original carrier as the primary audio identity rather than replacing it with unrelated trending audio.
+Trending audio may be tested for distribution in a motion adaptation, but it is never required for the core ROAD BRAIN identity.
 
-Trending audio may improve discovery in some contexts, but not at the cost of the series’ recognizability, pacing or narrative structure.
+The static post must already feel like ROAD BRAIN through typography, system voice, archetypes and composition.
 
-If platform discovery experiments are run, keep the ROAD BRAIN carrier audible enough that the transmission still has its own sonic identity.
+## Audio QC for motion adaptations
 
-## Audio QC
-
-- Same master track duration across episodes.
-- Visual state changes land on the same carrier boundaries.
-- No episode-specific sound overpowers the master audio grammar.
-- State 4 feels like the peak.
-- State 5 is clearly cleaner and calmer.
-- Ending is dry enough to loop or cut cleanly.
+- Static version works without sound first.
+- Audio reinforces the escalation rather than explaining it.
+- Dialogue remains readable without relying on voiceover.
+- The correction sounds calmer than the violation.
+- No trend audio overwhelms the institutional identity.
