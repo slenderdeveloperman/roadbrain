@@ -3,78 +3,108 @@
 ## Current pipeline
 
 ```text
-Paper
-→ Cavalry
-→ lightweight finishing / assembly
-→ Instagram Reels
+Research / rule verification
+→ static storyboard + composition
+→ carousel export
+→ Instagram carousel
+→ optional Reel adaptation only after the static idea works
 ```
 
-### Paper — static source of truth
-Use Paper for:
+The production system is deliberately static-first. A simple road behaviour should not require motion infrastructure to become publishable.
+
+## Paper / static design environment — source of truth
+
+Use the static design environment for:
 - canonical assets;
 - tokens;
 - roads and lane geometry;
 - vehicles;
-- characters;
+- ROAD BRAIN archetypes;
+- guest-character redraws / transformed collage;
 - captions;
 - behaviour diagrams;
-- static episode boards;
-- exportable SVGs.
+- complete episode slides;
+- all-in-one shareable comics;
+- exportable SVG/PNG assets.
 
-Paper is **not** the motion source of truth. MCP testing showed animation/transition properties were not authorable through the Paper MCP, while static SVG composition and video export were available. Treat Paper as the visual workshop and storyboard system.
+The storyboard and the finished carousel may now be effectively the same artifact.
 
-### Cavalry — motion source of truth
-Use Cavalry for:
-- timelines;
-- keyframes;
-- easing;
-- independent layer timing;
-- procedural FX;
-- reusable motion behaviours;
-- episode compositions;
-- agent-addressable motion through Cavalry MCP.
+## Motion tools — optional adaptation layer
 
-The goal is not to hand-build every episode. Build a reusable motion grammar and swap assets/behaviours.
+Cavalry, Resolve or other motion tools are no longer part of the default path.
 
-### Finishing — stay lightweight
-Do not require DaVinci Resolve by default. Resolve/Fairlight is powerful but is optional unless an episode genuinely needs detailed sound design or finishing.
+Use them only when:
+- a successful comic deserves a Reel adaptation;
+- motion adds a joke unavailable in static form;
+- a platform-specific experiment calls for animation;
+- a reused motion asset makes the adaptation genuinely cheap.
 
-Current preference:
-- generate/prepare the recurring audio separately;
-- combine picture + audio using the simplest reliable tool available (Instagram/Edits or another lightweight editor);
-- use Resolve only when its precision is worth the complexity.
+Do not animate merely because ROAD BRAIN previously used animation.
 
 ## Project formats
 
-- Canvas: **1080 × 1920**
-- Frame rate: **30 fps**
-- Current recurring episode duration: **25.2 s**
-- Orientation: vertical 9:16
+### Default carousel
 
-## Paper organization
+```text
+Canvas: 1080 × 1350
+Aspect ratio: 4:5 portrait
+Colour: RGB
+Output: PNG or high-quality JPEG as appropriate
+```
 
-Recommended sections/pages:
+### Optional all-in-one comic
+
+```text
+1080 × 1350 preferred
+1080 × 1080 allowed when composition benefits
+```
+
+### Optional Reel adaptation
+
+```text
+1080 × 1920
+30 fps unless the adaptation needs otherwise
+No fixed duration requirement
+```
+
+## Episode folder / board organization
+
+Recommended structure:
 
 ```text
 00 SYSTEM
 01 TOKENS
 02 ROADS
 03 VEHICLES
-04 CHARACTERS
-05 MARKINGS
-06 FX
-07 CAPTIONS
-08 BEHAVIOURS
-09 EPISODE TEMPLATES
+04 ARCHETYPES
+05 GUEST CAST
+06 MARKINGS
+07 CONTAMINATION / FX
+08 CAPTIONS
+09 COMIC TEMPLATE
 10 EP001
 11 EP002
 12 EP003
 ...
 ```
 
+## Default episode board
+
+Each episode should contain:
+
+```text
+01_hook
+02_violation
+03_diagnosis
+04_absurd-consequence
+05_correct
+06_shareable        optional
+07_rule-card        optional
+```
+
 ## Naming contract
 
-Use semantic naming only for layers that may be targeted independently in motion.
+Use semantic naming for independently reusable pieces.
 
 ### Vehicle
 ```text
@@ -87,26 +117,6 @@ vehicle
   brake_right
 ```
 
-### Indicator character
-```text
-indicator_character
-  stalk
-  housing
-  eye_left
-  eye_right
-  mouth
-  halo
-  rays
-```
-
-### Impact FX
-```text
-impact_fx
-  rays_primary
-  rays_secondary
-  center_mask
-```
-
 ### Road
 ```text
 road
@@ -115,27 +125,37 @@ road
   divider_2
 ```
 
+### Guest cast
+```text
+guest_cast
+  head
+  body
+  prop
+  speech
+```
+
 ### Caption
 ```text
 caption
   state_label
   message
-  indicator_dot
+  metadata
   rule_line
 ```
 
-Do **not** waste time renaming microscopic vector paths that will never animate independently.
+Do not waste time renaming microscopic vector paths that will never be reused.
 
 ## Asset naming
 
-Canonical component examples:
+Canonical examples:
 
 ```text
 Road/Straight/3-Lane
 Vehicle/Car/Hatchback
-Character/Indicator
-FX/Impact-Lines
+Archetype/Indicator-Divine
+Archetype/Right-Lane-Raja
 Caption/System
+Contamination/Photocopy
 ```
 
 Export filenames should be lowercase kebab-case:
@@ -143,51 +163,43 @@ Export filenames should be lowercase kebab-case:
 ```text
 road-straight-3-lane.svg
 vehicle-car-hatchback.svg
-character-indicator-divine.svg
-fx-impact-lines-absurd.svg
+archetype-indicator-divine.svg
+slide-01-hook.png
+slide-02-violation.png
 ```
 
-Independently exported sub-assets use `__`:
+## Character-source rule
+
+If an episode riffs on an existing viral reel/persona:
+1. identify what is actually recognisable: expression, pose, phrase, costume, situation or archetype;
+2. translate that recognition into an original redraw, collage treatment or parody composition;
+3. cast it into a ROAD BRAIN role;
+4. do not depend on a ripped creator asset as the canonical source file;
+5. retain enough ROAD BRAIN institutional framing that the image still belongs to this series.
+
+## Production sequence per episode
 
 ```text
-vehicle-car-hatchback__indicator-left.svg
+1. State the road rule in one sentence.
+2. Verify the rule.
+3. Choose the ROAD BRAIN archetype.
+4. Choose guest-cast/reference energy if useful.
+5. Write the five swipe beats.
+6. Thumbnail all five slides before polishing any one slide.
+7. Build slide 5 first enough to confirm the correction is clear.
+8. Build slides 1–4 around escalating contrast.
+9. Export and review at actual phone size.
+10. Build the optional shareable composite from finished slides.
+11. Publish static first.
+12. Consider motion only if results or concept justify it.
 ```
-
-## Core five kernel assets
-
-The first system kernel is:
-1. `Vehicle/Car/Hatchback`
-2. `Character/Indicator`
-3. `Road/Straight/3-Lane`
-4. `Caption/System`
-5. `FX/Impact-Lines`
-
-Do not expand the full asset backlog until reuse has been proven across multiple episodes.
-
-## Core motion behaviours
-
-Reusable behaviours established from EP001:
-
-```text
-CAR_LANE_CHANGE
-SYSTEM_CARD_IN
-IMPACT_BURST
-CHARACTER_POP
-DIVINE_REVEAL
-INDICATOR_BLINK
-HARD_RESET
-```
-
-Future behaviours should be named semantically, not by episode number.
 
 ## Production rule
 
-**Paper decides what exists. Cavalry decides how it moves.**
-
-If something is visually wrong, fix it in Paper. If something moves badly, fix it in Cavalry.
+**The road rule decides what exists. The swipe decides how the joke unfolds. Motion is optional.**
 
 ## Stopping rule
 
 Avoid infrastructure for infrastructure's sake.
 
-A new tool, asset family or motion abstraction earns its place only if it makes the next episode faster, clearer or more reusable.
+A new tool, asset family, character treatment or animation system earns its place only if it makes the next episode faster, clearer, more reusable or more shareable.
