@@ -2,11 +2,11 @@
 
 ## Role in the series
 
-EP001 is the **reference swipe-comic implementation** for the current ROAD BRAIN format.
+EP001 is the reference swipe-comic implementation for the current ROAD BRAIN format.
 
 Subsystem that fails: **prediction / telepathy**.
 
-Core idea: a completely ordinary unsignalled lane change is treated as a catastrophic attempt to make every other road user read the driver's mind.
+Core idea: a completely ordinary unsignalled lane change is treated as an attempt to make every other road user read the driver's mind.
 
 ## Rule
 
@@ -23,374 +23,307 @@ DRIVE PREDICTABLY.
 
 ## Format
 
-Default publishable sequence:
+Canonical sequence:
 
 ```text
-01 CLEAN / HOOK
+01 HOOK
 02 VIOLATION
 03 DIAGNOSIS
 04 ABSURD CONSEQUENCE
 05 CALM / CORRECT
-06 ALL-IN-ONE SHAREABLE     optional but recommended
-07 PRISTINE RULE CARD       optional
 ```
 
 Source canvas: `1080 × 1350`, 4:5 portrait.
 
-## Guest-cast direction
+## Visual law for EP001
 
-EP001 may use a currently recognisable Indian reel/meme character as the **offending driver** if one fits naturally.
+Use the **same simple road composition across all five slides**.
 
-Casting brief:
-- expression: serene, overconfident, oblivious or mildly offended that anyone expects a signal;
-- the character is not the permanent IP;
-- redraw / transform / collage rather than dropping in an untouched creator asset;
-- ROAD BRAIN's durable characters are the ignored indicator and the institution itself.
+Default scene:
+- flat top-down three-lane road;
+- two or three simple vehicle silhouettes;
+- large empty asphalt field;
+- no detailed city background;
+- no realistic lighting;
+- no poster texture;
+- no infographic dashboard;
+- no more than one dominant system message per slide.
 
-If no guest character feels genuinely funny, use an original generic driver. Do not force trend relevance.
+The escalation should come from the institution's interpretation, not from adding more visual furniture.
 
 # Storyboard script
 
-## SLIDE 01 — CLEAN / HOOK
+## SLIDE 01 — HOOK
 
-### Story beat
-A normal three-lane Indian urban road. Small hatchback in the middle lane. Another car sits behind-right, close enough that a lane change would affect it.
+### Visual
+Top-down three-lane road.
 
-The offending driver's face appears as a deliberately oversized contaminated cutout in a small windshield/inset window. They look completely calm.
+A tiny blue scooter rides in the middle lane. Another vehicle sits behind-right.
 
-### Primary text
+Large areas of empty asphalt.
+
+### Dialogue
+Small speech bubble from scooter rider:
+
 ```text
-NORMAL HUMAN ACTIVITY
+I don't use indicators.
 ```
 
-### Metadata
+Tiny reply from the other rider:
+
 ```text
-RB // TX-001
-ROAD STATE: STABLE
-INTENT: UNKNOWN
+why
 ```
 
-### Small character gag
-The indicator stalk is visible inside the car, untouched.
+Scooter rider:
 
-Tiny label pointing to it:
 ```text
-COMMUNICATION DEVICE
-STATUS: AVAILABLE
+People can see me turning.
+```
+
+### System line
+Tiny mono label at bottom:
+
+```text
+CLAIM DETECTED
 ```
 
 ### Visual direction
-- Mostly black / white / asphalt.
-- No red.
-- Very little amber.
-- Road geometry clean enough to feel like a textbook.
-- Character contamination is the only slightly stupid thing in the frame.
-
-### Swipe question
-**What is this person about to do?**
+- black / white / asphalt;
+- blue scooter allowed as one identity accent;
+- no warning colour yet;
+- no decorative city background;
+- characters reduced to helmet/head + vehicle silhouette.
 
 ---
 
 ## SLIDE 02 — VIOLATION
 
-### Story beat
-The hatchback is now halfway into the right lane.
+### Visual
+Exactly the same road composition.
+
+The scooter is now halfway into the right lane.
 
 No indicator.
 
-The other car is braking / displaced slightly to avoid it.
+The vehicle behind-right brakes slightly.
 
-The driver's expression has not changed at all.
+### Hero system text
 
-### Primary system text
 ```text
-UNSIGNALLED
-LATERAL MOVEMENT
-DETECTED
+INTENT NOT BROADCAST
 ```
 
-### Annotation
-Arrow from original lane to new lane.
+### Small annotation
+Arrow from old lane to new lane:
 
-Beside arrow:
 ```text
-INTENTION BROADCAST:
-NONE
+SIGNAL: NONE
 ```
 
-### Tiny dialogue from affected driver
+Tiny affected-driver dialogue:
+
 ```text
 bhai?
 ```
 
-### System footer
-```text
-PREDICTION CONFIDENCE: 04%
-```
-
 ### Visual direction
-- First strong amber warning.
-- Keep the actual lane-change geometry painfully obvious.
-- No full visual meltdown yet.
-
-### Swipe question
-**How exactly was anyone supposed to know?**
+- first amber accent;
+- one arrow;
+- one braking cue;
+- otherwise keep the frame almost identical to slide 1.
 
 ---
 
 ## SLIDE 03 — DIAGNOSIS
 
-### Story beat
-Freeze the offending car in its new lane.
+### Visual
+Freeze the scooter mid-lane-change.
 
-The indicator stalk is now personified as `Indicator — Ignored`, sitting tiny and dejected near the bottom corner like an employee who was never consulted.
+The rest of the road stays clean.
 
-The institution opens an absurd diagnostic case around the driver.
+One small institutional card appears in the empty asphalt beside the scooter.
 
-### Primary system text
+### Hero text
+
 ```text
 TELEPATHY REQUESTED
 ```
 
 Under it:
+
 ```text
 PROTOCOL NOT SUPPORTED
 ```
 
-### Diagnostic table
+### Tiny diagnostic copy
+
 ```text
-TURN SIGNAL ........ ABSENT
-MIND READER ........ ABSENT
-OTHER DRIVERS ...... HUMAN
-CASE STATUS ........ CONFUSING
+DRIVER CONFIDENCE: HIGH
+EVIDENCE: 0 KB
 ```
 
-### Indicator dialogue
+### Optional character gag
+A tiny anthropomorphic indicator stalk sits dejected near the scooter.
+
 ```text
 i was literally here
 ```
 
-### Optional guest-character dialogue
-```text
-They should know.
-```
-
-Keep this painfully short.
-
 ### Visual direction
-- Amber + first red diagnostic mark.
-- Slight misregistration / photocopy contamination around the driver's face.
-- Institution is still mostly professional.
-
-### Swipe question
-**What happens when ROAD BRAIN takes “they should know” literally?**
+- do not create a dashboard;
+- one black/white system card;
+- one small red error mark at most;
+- the empty road remains dominant.
 
 ---
 
 ## SLIDE 04 — ABSURD CONSEQUENCE
 
-### Story beat
-The road has become a ridiculous national telepathy infrastructure diagram.
+### Visual
+Same tiny scooter and road.
 
-Every surrounding vehicle now has fake psychic antennae / thought bubbles / satellite dishes trying to receive the offender's unbroadcast lane-change intention.
+The single visual escalation: every nearby vehicle now has a crude little thought bubble / antenna trying to guess the scooter's direction.
 
-At center: the offending driver, still completely serene.
+Above the scooter, one enormous question mark or signal halo appears.
 
-The ignored indicator has transformed into **Indicator — Divine**, enormous behind the road like a neglected deity.
+Nothing else changes.
 
-### Hero text
+### Hero system text
+
 ```text
-NATIONAL DRIVER
-MIND-READING GRID
-OFFLINE
+LOCAL POPULATION
+NOW GUESSING
 ```
 
-### System fragments
-```text
-THOUGHT SIGNAL: NOT FOUND
-```
+### Tiny labels
+Near three surrounding vehicles:
 
 ```text
-14 VEHICLES ATTEMPTING CLAIRVOYANCE
-```
-
-```text
-MINISTRY OF TELEPATHY: UNAVAILABLE
+LEFT?
 ```
 
 ```text
-PLEASE USE THE FUCKING INDICATOR
+RIGHT?
 ```
 
-Use the last line only if the account's publishing tone allows profanity. Safer canonical alternative:
-
 ```text
-PHYSICAL SIGNAL DEVICE RECOMMENDED
+U-TURN?
 ```
 
-### Divine Indicator line
+Optional tiny footer:
+
 ```text
-BLINK ME, MORTAL
+TELEPATHY SERVER: OFFLINE
 ```
 
 ### Visual direction
-- This is the maximal screenshot slide.
-- Psychic violet can appear here.
-- Huge sacred/diagrammatic Indicator behind tiny road geometry.
-- Fake seals, arrows, system maps, antenna diagrams.
-- Still preserve the original lane-change path somewhere in the image.
-- One giant idea, not generic glitch soup.
-
-### Swipe action
-This is the apex. The next swipe should feel like someone switched the entire machine off.
+- this is the peak, but still simple;
+- one impossible visual idea only;
+- no maps, charts, fake ministries, seals, graphs or dense telemetry;
+- psychic violet may appear only in the giant question mark / halo if useful.
 
 ---
 
 ## SLIDE 05 — CALM / CORRECT
 
-### Story beat
-Hard visual reset.
+### Visual
+Same road.
 
-Same three-lane road.
+Same scooter begins in the middle lane.
 
-Same car begins in middle lane.
+Amber indicator blinks.
 
-Amber indicator visibly blinking.
+A clean dashed path shows the scooter moving right after signalling.
 
-Then a simple dashed/ghosted path shows the car moving right only after signalling and checking space.
+The trailing vehicle continues normally.
 
-No guest-character cutout. No deity. No contamination.
+### Hero text
 
-### Primary text
 ```text
 INDICATE.
 THEN MOVE.
-```
-
-### Secondary line
-```text
-MAKE YOUR INTENT PREDICTABLE.
 ```
 
 ### Footer
+
 ```text
 DRIVE PREDICTABLY.
 ```
 
-### Metadata
+### Tiny system line
+
 ```text
 ROAD STATE: BORING
-SYSTEM STATE: HEALTHY
 ```
 
 ### Visual direction
-- Pristine black/white/asphalt.
-- Amber indicator is the only necessary accent.
-- No triumphant green explosion.
-- Correct driving should feel almost disappointingly normal.
+- pristine;
+- no characters speaking;
+- no deity;
+- no green celebration;
+- amber indicator is the only necessary colour accent.
 
----
+# Optional 4-panel shareable
 
-# SLIDE 06 — ALL-IN-ONE SHAREABLE COMIC
+If condensed into one image:
 
-Recommended four-panel composite:
-
-### Panel A
-Car moving lanes without signal.
+### Panel 1
 
 ```text
-UNSIGNALLED LATERAL MOVEMENT
+I don't use indicators.
 ```
 
-### Panel B
-Diagnostic table + ignored Indicator.
+### Panel 2
+Unsignalled lane change.
 
 ```text
-TELEPATHY REQUESTED
-PROTOCOL NOT SUPPORTED
+INTENT NOT BROADCAST
 ```
 
-### Panel C
-Divine Indicator / national telepathy-grid collapse.
+### Panel 3
+Three surrounding vehicles guessing.
 
 ```text
-BLINK ME, MORTAL
+TELEPATHY NOT SUPPORTED
 ```
 
-### Panel D
-Clean correct lane change.
+### Panel 4
+Correct lane change.
 
 ```text
 INDICATE. THEN MOVE.
-DRIVE PREDICTABLY.
 ```
 
-The full joke must be understandable when this slide is forwarded alone.
+Each panel should be mostly empty road.
 
----
+# Character direction
 
-# SLIDE 07 — PRISTINE RULE CARD
+The rider should be an extremely simple recurring character:
+- oversized helmet;
+- one neutral facial expression;
+- plain shirt block;
+- blue scooter;
+- no detailed rendering.
 
-Optional final saveable card.
+The joke is that their expression barely changes while everyone else's predictive burden increases.
 
-```text
-INDICATE.
-THEN MOVE.
+Viral/meme references can influence the expression or pose, but must collapse into this same simple character language.
 
-DON'T MAKE OTHER ROAD USERS
-GUESS WHAT YOU'RE DOING.
+# Copy rule
 
-DRIVE PREDICTABLY.
-```
+Per slide:
+- one hero line;
+- zero to two small annotations;
+- optional one-line dialogue.
 
-Keep this slide entirely clean.
+If a slide looks like an infographic dashboard, simplify it.
 
-# Storyboard production notes
+# What EP001 should prove
 
-## Composition continuity
-Use the same road geometry and car positions across slides 1, 2, 3 and 5 so the behavioural difference is immediately comparable.
-
-## Character continuity
-The driver's expression should remain almost unchanged through slides 1–4. Their total serenity makes the institution's escalating panic funnier.
-
-## Escalation continuity
-```text
-01 textbook
-02 warning
-03 bureaucracy
-04 religion / national infrastructure failure
-05 textbook
-```
-
-## Copy rule
-Do not add more jokes merely because a slide has empty space. The system text should feel discovered, not sprayed everywhere.
-
-## Factual rule
-The final instruction is intentionally conservative: signal before changing lanes and make the movement predictable. Verify current Indian road-law wording again immediately before publication if the public-facing copy becomes more specific.
-
-## Phone-size test
-At 25–35% desktop zoom, the viewer must still be able to read:
-- the offence;
-- the hero system message;
-- the final rule.
-
-# Legacy motion history
-
-The original EP001 was developed as a 7.2-second motion prototype and later a 25.2-second five-state video carrier. Those experiments established several useful principles:
-- escalation should be structured;
-- the system itself can be the main character;
-- the Indicator works as infrastructure personification;
-- the surreal consequence can be extreme if the correction is pristine;
-- the final state should be boring competence.
-
-The motion timings and recurring carrier are now **historical/adaptation references**, not the canonical default episode format.
-
-# What EP001 should prove now
-
-1. ROAD BRAIN works completely without audio.
-2. The swipe itself can provide rhythm and escalation.
-3. A mundane Indian road offence can support a five-beat comic.
-4. Guest meme energy can attract attention without replacing ROAD BRAIN's identity.
-5. The institution remains the main character.
-6. The all-in-one slide creates a second distribution object for DMs and Stories.
-7. Static production is fast enough that ROAD BRAIN can respond to internet culture while it is still alive.
+1. ROAD BRAIN can be visually almost empty and still feel brainrotted.
+2. Semantic escalation is funnier than decorative escalation.
+3. The same road geometry can carry the entire comic.
+4. A recurring simple character is more reusable than detailed one-off illustrations.
+5. The final rule is understood instantly.
+6. Static production stays fast enough for frequent publishing.
