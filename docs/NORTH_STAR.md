@@ -4,7 +4,7 @@
 
 **Behavioral conditioning disguised as brain rot.**
 
-ROAD BRAIN is a recurring swipe-comic system that drills simple Indian road etiquette and safety behaviour into viewers through deadpan public-information graphics, internet-native characters, escalating institutional failure and absurd visual punishment.
+ROAD BRAIN is a recurring swipe-comic system that drills simple Indian road etiquette and safety behaviour into viewers through deadpan public-information graphics, relatable characters, escalating institutional failure and absurd semantic overreaction.
 
 ## Master line
 
@@ -16,11 +16,11 @@ This is the project’s thesis, not merely an end card.
 
 **The joke may be complicated. The instruction cannot.**
 
-A viewer should always be able to extract the road rule even if they miss every reference, character gag, corrupted label and system message.
+A viewer should always be able to extract the road rule even if they miss every reference, character gag and system message.
 
 ## Default carrier
 
-ROAD BRAIN is now **static-first**.
+ROAD BRAIN is static-first.
 
 The default episode is a swipeable comic/carousel. The viewer's thumb is the timeline.
 
@@ -41,16 +41,16 @@ Optional:
 7 PRISTINE RULE CARD
 ```
 
-Motion/Reel adaptations may be produced from successful comics later. They are not required to validate an episode.
+Motion/Reel adaptations may be produced later from successful comics. They are not required to validate an episode.
 
 ## What ROAD BRAIN should feel like
 
 - A real instructional graphic that has become sentient.
-- Indian driving-school diagram × public-information signage × corrupted meme comic.
-- Institutional information invaded by internet culture.
-- Mundane driving behaviour treated with absurd psychic significance.
+- Indian driving-school diagram × simple newspaper comic × malfunctioning bureaucracy.
+- Mundane road behaviour treated with absurd intellectual seriousness.
 - A bureaucracy with a nervous system.
 - Something you immediately send to the exact friend who commits the offence.
+- Visually simple enough that the joke lands before the decoration does.
 
 ## What ROAD BRAIN is not
 
@@ -58,7 +58,8 @@ Motion/Reel adaptations may be produced from successful comics later. They are n
 - A conventional road-safety PSA.
 - A polished cyberpunk brand.
 - A lecture.
-- A collection of contextless reaction images.
+- An infographic dashboard.
+- A dense poster full of competing labels, charts and effects.
 - A comic whose joke obscures the actual road behaviour.
 - A content system that requires animation to make a simple point.
 
@@ -67,25 +68,35 @@ Motion/Reel adaptations may be produced from successful comics later. They are n
 ### 1. Normality is infrastructural
 The clean state should be flat, diagrammatic and almost boring. The road is geometry. Cars are symbols. Captions are bureaucratic.
 
-### 2. Bad behaviour introduces contamination
-The normal world stays nearly black/white/asphalt. Amber, red, psychic violet, badly cut characters, compression and visual absurdity arrive when the system detects nonsense.
+### 2. Brainrot is semantic before it is visual
+The institution should become absurd primarily through language, interpretation and scale of response.
 
-### 3. The violation gets surreal; the correction stays boring
+Prefer:
+- one deranged classification;
+- one impossible inference;
+- one disproportionate system response.
+
+Avoid making every slide visually noisy just to signal brainrot.
+
+### 3. Bad behaviour introduces one visual disturbance at a time
+The normal world stays nearly black/white/asphalt. Amber or red may enter when the system detects nonsense. Larger visual ruptures must be earned by the specific joke.
+
+### 4. The violation gets surreal; the correction stays boring
 Never make correct driving feel heroic. Correct behaviour should feel ordinary, stable and almost anticlimactic.
 
-### 4. The comic can fail; the lesson cannot
+### 5. The comic can fail; the lesson cannot
 The institution may become increasingly deranged across slides, but the actual rule must remain unmistakable.
 
-### 5. The swipe is the rhythm
-Each slide should create a small question answered or worsened by the next slide. A viewer should want to swipe because the institutional response is escalating.
+### 6. The swipe is the rhythm
+Each slide should create a small question answered or worsened by the next slide.
 
-### 6. Shareability is part of the design
+### 7. Shareability is part of the design
 The episode should function as something a viewer can send to a specific offender. When useful, include an all-in-one comic slide after the swipe sequence.
 
-### 7. Characters are cast into durable ROAD BRAIN roles
-ROAD BRAIN may borrow the recognizability and energy of currently viral internet characters, expressions or archetypes, but the durable IP is the ROAD BRAIN role.
+### 8. Characters are simple roles, not rendering showcases
+ROAD BRAIN may use original recurring characters, meme-coded archetypes or transformed viral references, but they should be redrawn into the same simple visual language.
 
-Examples:
+Current archetypes:
 - Right Lane Raja
 - Shoulder Entrepreneur
 - High-Beam / Local Star
@@ -94,26 +105,22 @@ Examples:
 - Blind Spot Demon
 - Auto Rickshaw Quantum State
 
-A viral character can temporarily **play** one of these roles. The role survives the trend.
+### 9. The institution remains the main character
+Characters create relatability. ROAD BRAIN's classifications, diagrams, rules and dry machine voice create continuity.
 
-Do not directly reproduce proprietary character artwork or rely on an external meme identity so completely that the joke stops belonging to ROAD BRAIN.
-
-### 8. The institution remains the main character
-Guest characters attract attention. ROAD BRAIN's typography, classifications, diagrams, rules and dry machine voice create continuity.
-
-### 9. Escalation should be structured, not random
+### 10. Escalation should be structured, not decorative
 The comic arc is:
 
 ```text
 recognizable reality
 → offence
 → institutional recognition
-→ psychic/bureaucratic overreaction
+→ absurd interpretation
 → boring competence
 ```
 
-### 10. Production simplicity is a creative advantage
-A tiny road rule should not require a full motion pipeline by default. Static composition must be capable of carrying the joke.
+### 11. Production simplicity is a creative advantage
+A tiny road rule should not require a giant visual apparatus. Static composition must carry the joke with minimal geometry and minimal copy.
 
 ## Voice
 
@@ -130,15 +137,14 @@ Examples:
 - `DRIVE PREDICTABLY.`
 
 ### The machine operating the authority
-Dry system metadata, diagnostics and increasingly deranged classifications.
+Dry system metadata and increasingly deranged classifications.
 
 Examples:
 - `UNSIGNALLED LATERAL MOVEMENT DETECTED`
 - `LANE VACATION REQUEST: DENIED`
-- `VISUAL INPUT DEGRADED`
 - `LIGHT SOURCE: LOCAL STAR`
-- `ROAD WIDTH: INFINITE`
 - `TELEPATHY NOT SUPPORTED`
+- `DRIVER CONFIDENCE: HIGH / EVIDENCE: 0 KB`
 
 ## Success test
 
@@ -146,8 +152,9 @@ A ROAD BRAIN episode succeeds if:
 1. the offence is understood from slide 1 or 2;
 2. the joke escalates with each swipe;
 3. the system voice feels recognizably ROAD BRAIN;
-4. the final correction is simpler and calmer than everything before it;
-5. the actual road rule remains factually defensible;
-6. at least one slide feels screenshot/send-worthy;
-7. the piece works without sound;
-8. the viewer could recognize another ROAD BRAIN comic from its grammar alone.
+4. the visual system remains simple enough to parse instantly;
+5. the final correction is simpler and calmer than everything before it;
+6. the actual road rule remains factually defensible;
+7. at least one slide feels screenshot/send-worthy;
+8. the piece works without sound;
+9. the viewer could recognize another ROAD BRAIN comic from its grammar alone.
