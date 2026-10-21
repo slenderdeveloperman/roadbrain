@@ -2,59 +2,64 @@
 
 ## Core description
 
-ROAD BRAIN should look like a **real information graphic that has become sentient and infected by internet culture**.
+ROAD BRAIN should look like a **real information graphic that has become sentient**.
+
+The visual system is intentionally simple. The brainrot should come primarily from **what the institution says and how seriously it reacts**, not from making every slide visually chaotic.
 
 Reference mixture:
 - Indian driving-school diagrams;
 - public-information and road signage;
 - Japanese instruction-manual clarity;
+- simple newspaper-comic composition;
 - crude internet vector graphics;
-- badly cut reaction images / sticker energy;
-- selective manga/anime rupture;
-- OS warnings and system diagnostics;
-- traffic-camera / sensor interfaces;
-- bootleg internet contamination.
+- sparse OS warnings / system diagnostics;
+- occasional bootleg contamination.
 
-Do not imitate a specific show, franchise or creator's proprietary character artwork. Extract principles, poses, archetypes and internet energy, then redraw/recompose inside ROAD BRAIN's own system.
+Do not imitate a specific show, franchise or creator. Extract principles, not surfaces.
 
-## Static-first composition
+## Static-first canvas
 
-The default canvas is now an Instagram carousel slide rather than a video frame.
-
-Recommended source canvas:
+Default source canvas:
 
 ```text
 1080 × 1350 px
 4:5 portrait
 ```
 
-Optional square derivatives are allowed for all-in-one shareable panels.
-
 Every slide should survive:
 - feed-size viewing;
 - screenshotting;
 - platform compression;
-- being reposted without audio or animation.
+- being reposted without audio.
 
-## Normal world
+## The simple-world rule
 
-The clean state should be almost infrastructural:
-- flat 2D;
-- top-down or diagrammatic viewpoints;
+The default frame should be almost boring.
+
+Use:
+- flat 2D shapes;
+- top-down, side-on or simple diagrammatic viewpoints;
 - strong silhouettes;
-- minimal geometry;
+- exact road geometry;
+- minimal backgrounds;
+- large areas of negative space;
 - little or no shading;
-- exact lane geometry;
-- sparse system text;
-- black outlines;
-- deterministic composition.
+- sparse text;
+- clean black outlines;
+- one dominant visual idea per slide.
 
-Avoid:
+Avoid by default:
+- realistic city scenes;
+- detailed flyovers / buildings / traffic clutter;
+- poster-density layouts;
+- giant infographic dashboards;
+- multiple competing boxes, charts or badges;
+- faux vintage distress as a constant texture;
+- cinematic lighting;
 - glossy 3D;
-- SaaS illustration aesthetics;
-- corporate cute;
-- cinematic depth of field;
-- realism that makes the road behaviour harder to parse.
+- decorative detail that does not clarify the behaviour.
+
+If a slide still works after deleting half the elements, delete them.
 
 ## Palette
 
@@ -66,193 +71,177 @@ lane-white   #F2F2F2
 amber        #FFB000
 danger-red   #FF2B2B
 correct      #2AD56F
-psychic      #6E4CFF   optional, violation-only
+psychic      #6E4CFF   optional, rare
 ```
 
 Principle:
 
-> **Normal world is almost infrastructural. Brain failure introduces colour and contamination.**
+> **Normal world is infrastructural. Brain failure introduces one new thing at a time.**
 
-Amber is the recurring signal/status accent. Red is error/danger. Green is rare and only for explicitly correct states. Psychic violet is garnish, never a default brand colour.
+Amber is the main recurring accent. Red is for genuine error/danger moments. Green is rare. Psychic violet should appear only when the joke specifically earns it.
 
-## Image / character contamination
+## Asset style target
 
-Human or meme-derived characters should feel deliberately foreign to the pristine road diagram.
+Use this as the generation / cleanup target:
 
-Allowed treatments:
-- brutal crops;
-- enlarged heads or expressions;
-- badly masked silhouettes;
-- halftone / photocopy texture;
-- compressed-JPEG residue;
-- crude sticker outline;
-- posterized redraws;
-- original caricature based on a recognisable archetypal pose;
-- immaculate ROAD BRAIN type sitting against visual trash.
+> ROAD BRAIN visual system. Flat 2D vector asset. Educational public-information aesthetic contaminated by internet-cartoon energy. Strong silhouette. Minimal geometry. Economical black linework. Limited flat colour palette. No gradients. No shadows. No realistic lighting. No depth of field. No decorative background. Readable instantly on a phone. Clean separable shapes.
 
-The contrast is the joke:
+## Brainrot hierarchy
 
+The project should be **semantically deranged before it becomes visually deranged**.
+
+### Tier 1 — semantic brainrot
+Preferred.
+- absurd classifications;
+- bureaucratic overreaction;
+- literal interpretation of stupid behaviour;
+- ceremonial titles;
+- tiny diagnostic labels;
+- one deadpan system line that changes the meaning of the frame.
+
+Examples:
 ```text
-CLEAN INFRASTRUCTURE
-×
-CONTAMINATED HUMAN BEHAVIOUR
+TELEPATHY NOT SUPPORTED
 ```
 
-Do not let the contamination destroy lane geometry or the actual instructional layer.
+```text
+LANE VACATION REQUEST: DENIED
+```
 
-## Character casting
+```text
+DRIVER CONFIDENCE: HIGH
+EVIDENCE: 0 KB
+```
 
-ROAD BRAIN has durable roles, not a permanent celebrity cast.
+### Tier 2 — one structural gag
+Use at most one or two per slide.
+- one duplicated contour;
+- one giant arrow;
+- one absurd halo;
+- one fake system card;
+- one character scaled impossibly large;
+- one visual model disagreement.
 
-Current archetypes:
-- Indicator — Dormant / Ignored / Divine
-- Right Lane Raja
-- Shoulder Entrepreneur
-- High-Beam / Local Star entity
-- Zebra Crossing Final Boss
-- Blind Spot Demon
-- Auto Rickshaw Quantum State
-
-A currently viral reel character, expression or persona may temporarily **play** one of these roles.
-
-The archetype name should remain legible so the character can be recast later.
-
-## Corruption hierarchy for static comics
-
-### Tier 1 — semantic corruption
-Most characteristic.
-- absurd classifications;
-- wrong bureaucratic assumptions;
-- ceremonial titles;
-- telemetry that becomes metaphysical;
-- official language reacting disproportionately.
-
-### Tier 2 — structural corruption
-- offset panels;
-- duplicated contours;
-- echoed captions;
-- layer misregistration;
-- road-map disagreement;
-- fake stamps / approval marks;
-- crops extending outside the system frame.
-
-### Tier 3 — image degradation
-Use selectively.
-- compression;
-- pixelation;
+### Tier 3 — image contamination
+Rare.
+- JPEG damage;
 - photocopy noise;
 - RGB separation;
-- softness;
-- banding.
+- badly cut photo;
+- screenshot residue.
+
+Use only when the contamination itself is the joke.
 
 ### Tier 4 — generic glitch decoration
-Barely use.
+Almost never.
 - static;
 - scanlines;
 - VHS dirt;
 - random grain.
 
-The target is **institutional information suffering conceptual failure**, not a glitch preset.
+## Characters
 
-## Bootleg contamination vocabulary
+Characters should be **simple, repeatable silhouettes**, not detailed illustrations.
 
-Allowed in short bursts:
-- crude vectors;
-- badly cut photographs;
-- huge type;
-- inappropriate 3D objects;
-- fake anime impact frames;
-- screenshots / emoji;
-- diagrams;
-- 240p compression;
-- pristine typography against visual trash;
-- bizarre stock imagery;
-- broken aspect ratios;
-- Indian/local visual ephemera;
-- seals, stamps, arrows and fake bureaucratic marks.
+A character should be recognizable through:
+- helmet / head shape;
+- one clothing block;
+- one facial expression;
+- vehicle silhouette;
+- posture.
+
+Do not render skin, fabric, architecture or machinery realistically.
+
+ROAD BRAIN archetypes remain:
+- Indicator — Dormant / Ignored / Divine
+- Right Lane Raja
+- Shoulder Entrepreneur
+- High-Beam / Local Star
+- Zebra Crossing Final Boss
+- Blind Spot Demon
+- Auto Rickshaw Quantum State
+
+Viral / meme characters may influence a pose, expression or role, but should be **redrawn into the same simple ROAD BRAIN language**. Do not paste a photoreal face into every panel by default.
+
+## Composition principle
+
+The scale mismatch is part of the comedy:
+- tiny ordinary vehicle;
+- huge dead road field;
+- one ridiculous system reaction.
+
+Keep the offender visually small unless scale itself is the punchline.
+
+The road behaviour should be readable before the viewer reads any text.
 
 ## Typography
 
 ### Primary voice
-Neutral heavy grotesk. ROAD BRAIN should feel like an institution first.
+Neutral heavy grotesk.
 
 Use for:
-- wordmark;
 - rule cards;
 - violation captions;
 - system status headers;
 - archetype titles.
 
-Treatment:
-- uppercase for short messages;
-- high contrast;
-- tight, deliberate leading;
-- no decorative display type;
-- readable on a phone immediately.
-
 ### Secondary voice
-Utilitarian mono for metadata and machine diagnostics.
+Utilitarian mono.
+
+Use for small metadata only.
 
 Examples:
 ```text
-RB // TX-001
-STATE: VIOLATION
+RB // 001
 SIGNAL: ABSENT
-LANE: OCCUPIED
+LANE: 02
 CASE: OPEN
 ```
 
-### Glitch rule
-Never introduce a dedicated glitch font. Distort, duplicate, offset or misregister the existing institutional type.
+### Copy density rule
 
-## Caption styling
+One slide should usually contain:
+- one hero line;
+- zero to two small annotations;
+- optional one-line dialogue.
 
-Baseline caption system:
-- responsive width around 720–880 px inside 1080 px canvas;
-- generous safe margins;
-- label roughly 22–28 px;
-- main message roughly 56–84 px depending on length;
-- uppercase;
-- restrained borders/rules;
-- strong contrast.
+If the viewer has to scan the slide like a dashboard, there is too much copy.
 
-Semantic states:
-- Detection: black/white + amber
-- Warning: amber/black
-- Error: red/white
-- Status: white/black
-- Correct: mostly black/white; green only if genuinely useful
+## Carousel visual rhythm
 
-Final correction slides stay pristine.
+A simple five-beat episode should visually behave like this:
 
-## Composition principle
+```text
+01 clean diagram
+02 same diagram + offence
+03 same diagram + one absurd diagnosis
+04 same diagram + one impossible visual consequence
+05 clean diagram + correct behaviour
+```
 
-Scale mismatch remains part of the comedy:
-- tiny ordinary vehicle;
-- huge dead road field;
-- oversized reaction character;
-- ridiculous system response.
+Do not invent a new art direction for every slide.
 
-The human contamination can be large. The road behaviour must remain legible.
+## All-in-one comic
 
-## All-in-one shareable slide
+If an all-in-one shareable is used, keep it to 4 simple panels.
 
-When included, condense the episode into 4–6 panels on one image.
+Each panel should have:
+- one action;
+- one reaction or system line;
+- generous empty space.
 
-Requirements:
-- readable in a Story repost;
-- complete joke without needing the original carousel;
-- ROAD BRAIN mark / handle treatment unobtrusive but present;
-- final rule visible somewhere on the image.
+Do not turn the composite into an infographic poster.
 
 ## Visual QC
 
 Before export:
-- offence readable at phone size;
-- thin lane markings survive platform compression;
-- amber indicators survive compression;
-- guest character is transformed enough to belong to ROAD BRAIN rather than looking like a repost;
-- each slide has one dominant beat;
-- slide 4 is visually memorable but still subordinate to the road behaviour;
-- final correction has no corruption;
-- the all-in-one slide, if present, makes sense outside the carousel.
+- can the offence be understood in under one second?
+- is there only one dominant visual joke?
+- can at least 25% of the slide remain visually quiet?
+- are there fewer than three text groups?
+- are road geometry and indicator state obvious?
+- is the brainrot coming from the idea rather than decoration?
+- is the final correction pristine?
+- would the slide still work if all textures and decorative effects were removed?
+
+If not, simplify again.
